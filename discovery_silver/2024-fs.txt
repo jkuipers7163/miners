@@ -1,0 +1,1601 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSOLIDATED  FINANCIAL STATEMENTS  
+ 
+For the years  ended December 31 , 2024 and 20 23  
+ 
+(expressed in Canadian dollars)  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+PricewaterhouseCoopers LLP 
+PwC Tower, 18 York Street, Suite 2500, Toronto, Ontario, Canada  M5J 0B2 
+T.: +1 416 863 1133, F.: +1 416 365 8215, Fax to mail: ca_toronto_18_york_fax@pwc.com 
+ 
+“PwC” refers to PricewaterhouseCoopers LLP, an Ontario limited liability partnership. 
+ 
+Independent auditor’s report 
+To the Shareholders of Discovery Silver Corp. 
+Our opinion 
+In our opinion, the accompanying consolidated financial statements present fairly, in all material respects, 
+the financial position of Discovery Silver Corp. and its subsidiaries (together, the Company) as at 
+December 31, 2024 and 2023, and its financial performance and its cash flows for the years then ended in 
+accordance with International Financial Reporting Standards as issued by the International Accounting 
+Standards Board (IFRS Accounting Standards). 
+What we have audited 
+The Company’s consolidated financial statements comprise: 
+ the consolidated statements of financial position as at December 31, 2024 and 2023; 
+ the consolidated statements of loss and total comprehensive loss for the years then ended; 
+ the consolidated statements of cash flows for the years then ended; 
+ the consolidated statements of changes in equity for the years then ended; and 
+ the notes to the consolidated financial statements, which include material accounting policies and 
+other explanatory information. 
+Basis for opinion 
+We conducted our audit in accordance with Canadian generally accepted auditing standards. Our 
+responsibilities under those standards are further described in the Auditor’s responsibilities for the audit of 
+the consolidated  financial  statements  section of our report. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our opinion. 
+Independence 
+We are independent of the Company in accordance with the ethical requirements that are relevant to our 
+audit of the consolidated financial statements in Canada. We have fulfilled our other ethical responsibilities 
+in accordance with these requirements. 
+Key audit matters 
+Key audit matters are those matters that, in our professional judgment, were of most significance in our 
+audit of the consolidated financial statements for the year ended December 31, 2024. These matters were  
+ 
+addressed in the context of our audit of the consolidated financial statements as a whole, and in forming 
+our opinion thereon, and we do not provide a separate opinion on these matters. 
+Key audit matter How our audit addressed the key audit matter 
+Assessment of indicators of impairment of 
+Cordero mineral property 
+Refer to note  3 – Material accounting policies and 
+note 5 – Critical judgments and estimates in 
+applying accounting policies  to the  consolidated  
+financial  statements. 
+The carrying value of the Cordero mineral property, 
+which is comprised of exploration and evaluation 
+assets, was $84.9 million as at December 31, 2024. 
+The carrying values of mineral properties are 
+reviewed each reporting period or upon the 
+occurrence of events or changes in circumstances 
+indicating that the carrying values of assets may not 
+be recoverable. If any such indicator exists, then an 
+impairment test is performed by management. 
+Indicators of impairment may include (i) the period 
+during which the entity has the right to explore in 
+the specific area has expired during the year or will 
+expire in the near future; (ii) substantive 
+expenditure on further exploration for and 
+evaluation of mineral reserves and resources in the 
+specific area is neither budgeted nor planned; (iii) 
+sufficient data exists to support that extracting the 
+reserves and resources will not be technically 
+feasible or commercially viable based on technical 
+studies or desktop studies; and (iv) facts and 
+circumstances suggest that the carrying amount 
+exceeds the recoverable amount. No impairment 
+indicators were identified by management for the 
+Cordero mineral property as at December 31, 2024. 
+We considered this a key audit matter due to the 
+significance of the mineral property and the 
+judgments made by management in its assessment 
+of indicators of impairment, which led to subjectivity 
+in performing procedures to test management's 
+assessment. Our approach to addressing the matter included the 
+following procedures, among others: 
+ Assessed the judgment made by management 
+in determining whether indicators of impairment 
+for the Cordero mineral property existed, which 
+include the following: 
+‒ Obtained, for a sample of claims, by 
+reference to government registries, 
+evidence to support (i) the right to explore 
+the area, and (ii) title expiration dates. 
+‒ Read the Board of Directors' minutes and 
+obtained budget approvals to evidence 
+continued and planned substantive 
+expenditure for exploration for and 
+evaluation of mineral reserves and 
+resources in the specific area. 
+‒ Assessed whether there is any evidence 
+that extracting the reserves and resources 
+will not be technically feasible or 
+commercially viable, or if other facts and 
+circumstances suggest that the carrying 
+amount exceeds the recoverable amount, 
+by considering the press releases and 
+technical report related to the release of the 
+pre-feasibility study on the Cordero Silver 
+Project and evidence obtained in other 
+areas of the audit.  
+ 
+Other information 
+Management is responsible for the other information. The other information comprises the Management’s 
+Discussion and Analysis. 
+Our opinion on the consolidated financial statements does not cover the other information and we do not 
+express any form of assurance conclusion thereon. 
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other 
+information identified above and, in doing so, consider whether the other information is materially 
+inconsistent with the consolidated financial statements or our knowledge obtained in the audit, or 
+otherwise appears to be materially misstated. 
+If, based on the work we have performed, we conclude that there is a material misstatement of this other 
+information, we are required to report that fact. We have nothing to report in this regard. 
+Responsibilities of management and those charged with governance for the 
+consolidated financial statements 
+Management is responsible for the preparation and fair presentation of the consolidated financial 
+statements in accordance with IFRS Accounting Standards, and for such internal control as management 
+determines is necessary to enable the preparation of consolidated financial statements that are free from 
+material misstatement, whether due to fraud or error. 
+In preparing the consolidated financial statements, management is responsible for assessing the 
+Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going 
+concern and using the going concern basis of accounting unless management either intends to liquidate 
+the Company or to cease operations, or has no realistic alternative but to do so. 
+Those charged with governance are responsible for overseeing the Company’s financial reporting 
+process. 
+Auditor’s responsibilities for the audit of the consolidated financial statements 
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as 
+a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s 
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a 
+guarantee that an audit conducted in accordance with Canadian generally accepted auditing standards 
+will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and 
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence 
+the economic decisions of users taken on the basis of these consolidated financial statements.  
+ 
+As part of an audit in accordance with Canadian generally accepted auditing standards, we exercise 
+professional judgment and maintain professional skepticism throughout the audit. We also: 
+ Identify and assess the risks of material misstatement of the consolidated financial statements, 
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and 
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit procedures 
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the 
+effectiveness of the Company’s internal control. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures made by management. 
+ Conclude on the appropriateness of management’s use of the going concern basis of accounting and, 
+based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If 
+we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report 
+to the related disclosures in the consolidated financial statements or, if such disclosures are 
+inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to 
+the date of our auditor’s report. However, future events or conditions may cause the Company to 
+cease to continue as a going concern. 
+ Evaluate the overall presentation, structure and content of the consolidated financial statements, 
+including the disclosures, and whether the consolidated financial statements represent the underlying 
+transactions and events in a manner that achieves fair presentation. 
+ Plan and perform the group audit to obtain sufficient appropriate audit evidence regarding the financial 
+information of the entities or business units within the Company as a basis for forming an opinion on 
+the consolidated financial statements. We are responsible for the direction, supervision and review of 
+the audit work performed for purposes of the group audit. We remain solely responsible for our audit 
+opinion. 
+We communicate with those charged with governance regarding, among other matters, the planned scope 
+and timing of the audit and significant audit findings, including any significant deficiencies in internal 
+control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with relevant 
+ethical requirements regarding independence, and to communicate with them all relationships and other 
+matters that may reasonably be thought to bear on our independence, and where applicable, related 
+safeguards.  
+ 
+From the matters communicated with those charged with governance, we determine those matters that 
+were of most significance in the audit of the consolidated financial statements of the current period and 
+are therefore the key audit matters. We describe these matters in our auditor’s report unless law or 
+regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we 
+determine that a matter should not be communicated in our report because the adverse consequences of 
+doing so would reasonably be expected to outweigh the public interest benefits of such communication. 
+The engagement partner on the audit resulting in this independent auditor’s report is Marelize Barber. 
+ 
+ 
+/s/PricewaterhouseCoopers LLP  
+ 
+ 
+Chartered Professional Accountants, Licensed Public Accountants 
+ 
+Toronto, Ontario 
+March 26, 2025 Discovery Silver Corp.  
+CONSOLIDATED STATEMENTS OF FINANCIAL POSITION  
+(Expressed in Canadian dollars, except where otherwise noted)  
+ 
+ 
+ 2  
+ 
+As at   
+Notes      December 31 ,  
+2024 December 31,  
+2023 
+        
+ASSETS         
+Current           
+Cash and cash equivalents  6     $ 29,310,579  $ 58,944,459  
+Sales tax and other receivables  7      3,201,221   2,418,901  
+Prepaids and deposits        279,481   292,055  
+Investments        213,147   204,180  
+       33,004,42 8  61,859,596  
+Non -current           
+Property and Equipment  8      2,775,518   1,511,446  
+Value -added taxes receivable  7      2,153,568   2,299,668  
+Mineral properties  9      84,949,27 2  80,395,288  
+TOTAL ASSETS       $ 122,882,786  $ 146,065,998  
+          
+LIABILITIES           
+Current           
+Accounts payable and accrued liabilities  10     $ 8,359,638  $ 12,056,645  
+Current portion of lease liabilities  11      247,674   111,580  
+      $ 8,607,312  $ 12,168,225  
+Non -current           
+Other long -term liabilities  12      1,069,44 8  4,177,833  
+Lease liabilities  11      1,217,81 3  298,834  
+TOTAL LIABILITIES       $ 10,894,57 3 $ 16,644,892  
+          
+SHAREHOLDERS’ EQUITY           
+Share capital  13(b)     $ 220,211,128  $ 216,194,163  
+Contributed surplus        44,801,2 20  42,660,494  
+Warrants  13(e)      17,525,093   17,525,093  
+Accumulated other comprehensive loss        (1,297,473)   1,397,720  
+Accumulated deficit        (169,251,755)   (148,356,364)  
+TOTAL EQUITY       $ 111,988,21 3 $ 129,421,106  
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY       $ 122,882,78 6 $ 146,065,998  
+ 
+ 
+Approved on Behalf of the Board  on March 26, 2025: 
+ 
+ 
+“Jeff Parr ”                   “Murray John ”                              
+Jeff Parr  – Director                           Murray John  – Director        
+ 
+ Discovery Silver Corp.  
+CONSOLIDATED STATEMENTS OF LOSS AND TOTAL COMPREHENSIVE LOSS  
+(Expressed in Canadian dollars, except per share and share information)  
+ 
+ 
+ 3    Years  Ended   
+ Notes    December 31,  
+2024 December 31 , 
+2023 
+          
+Expenses (income)           
+General office and other expenses  15     $ 12,977,449  $ 8,653,089  
+Interest income        (2,201,088)   (3,095,468)  
+Interest expense        120,32 5  19,030  
+Professional fees  16      1,479,821   1,547,300  
+Exploration and project evaluation expenses  14      507,383   3,743,940  
+Share -based compensation  13(b)      4,446,03 8  5,673,104  
+Loss on fair value remeasurement of investments        (8,544)   316,425  
+Write -off for IVA receivable  7      -  1,293,744  
+Foreign exchange  loss (gain)        3,574,0 07  (2,398,649)  
+Net loss       $ 20,895,3 91 $ 15,752,515  
+Other comprehensive  loss ( income )      $ 2,695,19 3 $ (1,349,195)  
+Total comprehensive loss       $ 23,590,584  $ 14,403,320  
+          
+          
+Weighted average shares outstanding           
+ Basic and diluted  13(b)      398,385,856   382,703,062  
+          
+Net loss per share           
+Basic and diluted       $ (0.05)  $ (0.04)  
+ 
+ Discovery Silver Corp.  
+CONSOLIDATED STATEMENTS OF CASH FLOWS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+ 
+ 
+ 4    Years  Ended   
+ 
+Notes    December 31,  
+2024 December 31,  
+2023 
+Operating Activities           
+Net loss       $ (20,895,39 1) $ (15,752,515)  
+Items not affecting cash:           
+Depreciation        379,061   363,744  
+Accretion        270,066   - 
+Share -based compensation  13(c)      4,446,03 8  5,673,104  
+Write -off for IVA receivable  7      -  1,293,744  
+Loss on fair value remeasurement        (8,544)   316,424  
+Unrealized foreign exchange loss        4,400,065   801,659  
+Changes in non -cash operating working capital:           
+Sales tax and other receivables  7      (550,635 )  4,621,152  
+Prepaids and deposits        12,574   (32,776)  
+Accounts payable and accrued liabilities  10      (8,806,027)   1,189,910  
+Net cash used in operating activities       $ (20,752,793 ) $ (1,525,554)  
+Investing Activities           
+Acquisition of property and equipment  8      -  (440,669)  
+Disposals of property and equipment  8      7,021   90,481  
+Acquisition of  mineral property  9      (9,831,226 )  (33,407,547)  
+Net cash used in investing  activities       $ (9,824,205)  $ (33,757,735)  
+Financing Activities           
+Issuance of shares, net of costs  13(b)      -  48,741,556  
+Issuance of shares on exercise of options  13(c)      1,711,65 3  251,696  
+Principal payment on lease liability  11      (682,528)   (139,385)  
+Net cash provided by financing activities       $ 1,029,12 5 $ 48,853,867  
+Effect of exchange rates on cash and cash equivalents        (86,007)   (847,057)  
+Decrease ( increase) in  cash  and cash equivalents        (29,633,880)   12,723,521  
+Cash and cash equivalents, beginning of  year  6      58,944,459   46,220,938  
+Cash and cash equivalents, end of year  6     $ 29,310,579  $ 58,944,459  
+Supplemental Cash Flow Information:           
+Income tax expense paid       $ - $ - 
+Interest paid       $ - $ 822 
+ 
+  Discovery Silver Corp.  
+CONSOLIDATED STATEMENTS  OF CHANGES IN EQUITY  
+(Expressed in Canadian dollars, except where otherwise noted)  
+ 
+ 
+ 5 
+  
+Notes  Number of 
+Common 
+Shares  Share Capital  Warrants  Contributed 
+Surplus  Accumulated 
+Other 
+Comprehensive  
+Loss  Accumulated 
+Deficit  Total Equity  
+At January 1 , 2024  395,862,249  $ 216,194,16 3 $ 17,525,093  $ 42,660,494  $ 1,397,720  $ (148, 356,364 ) $ 129, 421,10 6 
+Share -based  
+compensation  13c -  -  -  4,446,03 8  -  -  4,446,03 8 
+Shares issued on 
+exercise of options  13c 3,468,450   2,625,45 6  -  (913,803 )  -  -  1,711,65 3 
+Shares issued on 
+exercise of RSU’s  13f 1,130,545   1,391,50 9  -  (1,391,50 9)  -  -  - 
+Net loss and total  
+comprehensive loss  
+for the year   -  -  -  -  (2,695,19 3)  (20,895,39 1)  (23,590,584)  
+At December 31 , 202 4  400,461,244  $ 220,211,128  $ 17,525,093  $ 44,801,2 20 $ (1,297,47 3) $ (169,251,75 5) $ 111,988,21 3  
+ 
+ 
+Notes  Number of 
+Common 
+Shares  Share Capital  Warrants  Contributed 
+Surplus  Accumulated 
+Other 
+Comprehensive  
+Loss  Accumulated 
+Deficit  Total Equity  
+At January 1, 2023   351,941,580  $ 166,732,378  $ 17,525,093  $ 37,455,923  $ 48,525  $ (132,603,849)  $ 89,158,070  
+Share -based  
+compensation  13c -  -  -  5,673,104   -  -  5,673,104  
+Shares issued under 
+marketed public 
+offering  13b 43,125,000   51,750,000   -  -  -  -  51,750,000  
+Share issue costs  13c -  (3,008,444)   -  -  -  -  (3,008,444)  
+Shares issued on exercise 
+of options  13c 528,650   374,642   -  (122,946)   -  -  251,696  
+Shares issued on exercise 
+of RSU’s  13f 267,019   345,587   -  (345,587)   -  -  - 
+Net loss and total  
+comprehensive loss  for 
+the year   -  -  -  -  1,349,195   (15,752,515)   (14,403,320)  
+At December 31, 2023   395,862,249  $ 216,194,163  $ 17,525,093  $ 42,660,494  $ 1,397,720  $ (148,356,364)  $ 129,421,106  
+ 
+ 
+ Discovery Silver Corp.  
+NOTES TO THE  CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 6 1. DESCRIPTION OF BUSINESS AND NATURE OF OPERATIONS   
+Discovery Silver  Corp. (“Discovery Silver ” or the “Company”) is principally engaged in the acquisition, 
+exploration and development of mineral properties, with a focus on advancing assets capable of 
+supporting profitable operations and generating attractive returns for all stakeholders. The Company has 
+exposure to silver through i ts current primary asset, the Cordero Project in Chihuahua, Mexico, a large -
+scale, silver -dominant polymetallic deposit with the potential to become one of the world’s largest silver 
+producers over a long mine life. On January 27, 2025, the Company announc ed a definitive agreement 
+to acquire 100% of Newmont Corporation’s interest in the Porcupine Complex (“Porcupine” or the 
+“Complex”) in and near Timmins, Ontario, Canada. Through the addition of Porcupine, the Company will 
+become a Canadian -based gold produ cer, with multiple operating mines, in a historic gold camp.   The 
+acquisition is expected to close in the first half of 2025 and the Company will then focus on integrating 
+the operations, growing production, enhancing efficiency, and advancing numerous exp loration 
+opportunities within the Complex.  
+ 
+The Company was incorporated on October 10, 1986 under the laws of British Columbia and on June 13, 
+2017, the Company’s name was changed to Discovery Metals Corp. On April 14, 2021, the Company’s 
+name was changed to Discovery Silver Corp. The Company is listed on the T oronto Stock  Exchange (the 
+“Exchange” or “TSX”) under the symbol “DSV” , and on the Frankfurt Stock Exchange under the 
+symbol “1CU0” . The Company's head office is located at Suite 701 - 55 University Avenue, Toronto, 
+Ontario, M5J 2H7 . 
+ 
+The Company’s Board of Directors authorized the issuance of these audited  consolidated financial 
+statements  as at and for the years ended December 31, 2024 and 2023  (the “ Consolidated  Financial 
+Statements”) on March 26, 2025. 
+ 
+2. BASIS OF PREPARATION  
+These Consolidated Financial Statements have been prepared in accordance with International Financial 
+Reporting Standards as issued by the International Accounting Standards Board (“IFRS  Accounting 
+Standards ”).  
+ 
+These consolidated  financial statements have been prepared on a going concern basis which 
+contemplates the realization of assets and discharge of all liabilities in the normal course of business . 
+The Company has, to date, relied on cash received from share issuances in order to fund its exploration 
+and other business objectives. At December 31 , 202 4, the Company had working capital (defined as 
+current assets less current liabilities) of $24,397,11 6 (December 31, 202 3 – $49,691,371 ), shareholders’ 
+equity of $ 111, 988,21 3 (December 31, 202 3 – $129,421,106 ) and an accumulated deficit of  
+$169,251,755  (December 31, 202 3 – $148,356,364 ). 
+ 
+3. MATERIAL  ACCOUNTING POLICIES   
+The material  accounting policies adopted by the Company in the preparation of its consolidated  financial 
+statements  are set out below.  
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 7 
+ a) Basis of Consolidation  
+ 
+The Consolidated  Financial Statements  are presented in Canadian dollars (“CAD”) unless otherwise 
+noted. The consolidated  financial statements  include the accounts of the Company and its wholly 
+owned subsidiaries.   
+ 
+Subsidiaries consist of entities over which the Company is exposed to, or has rights to, variable 
+returns as well as the ability to affect those returns through the power to direct the relevant activities 
+of the entity. Subsidiaries are consolidated from t he date control is transferred to the Company and 
+are de -consolidated from the date control ceases. The Consolidated  Financial Statements include all 
+the assets, liabilities, expenses and cash flows of the Company and its subsidiaries after eliminating 
+inter-entity balances and transactions.  The Consolidated  Financial Statements include the financial 
+condition and results of operations of the Company and its subsidiaries as outlined below . 
+ 
+The Company’s principal subsidia ry and its geographic location as of  December 31 , 2024 is as follows:  
+ 
+Direct Parent Company  Location  Ownership 
+Percentage  Properties  
+Minera Titán S.A. de C.V.  Mexico  100%  Cordero  
+ 
+All intercompany assets, liabilities, equity, income, expenses , and cash flows arising from 
+intercompany transactions have been eliminated on consolidation.  
+ 
+b) Currency of Presentation  
+ 
+The Consolidated  Financial Statements  are presented in Canadian dollars which is the functional and 
+presentation currency of the Company. The functional currency for the entities through which the 
+Company conducts its operations is determined depending upon the primary economic environment 
+in which they operate. The functional currency of the Mexican subsidiar ies is the Mexican peso 
+(“MXP”).  
+ 
+c) Foreign currency translation  
+ 
+Foreign currency transactions are translated into the functional currency using the exchange rates 
+prevailing at the dates of the transactions. At the end of each reporting period, monetary assets and 
+liabilities that are denominated in foreign currencies are translated at the rates prevailing at that 
+date. Non -monetary items that are measured in terms of historical cost  in foreign currencies are 
+not re -translated. Total foreign exchange gains and losses are recognized in the income statement 
+and the unrealized portion is reported separately in the consolidated statement of cash flows. The 
+foreign exchange differences ari sing from the translation of the subsidiary with functional currency 
+different than the consolidated functional currency are recognized as currency translation 
+adjustments in other comprehensive loss in the consolidated statement of loss and total 
+comprehe nsive loss.  
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 8 
+ d) Cash and cash equivalents  
+Cash and cash equivalents include cash and highly liquid investments with original maturities of three  
+months or less. The Company invests excess cash in high yield savings accounts maintained with  high 
+credit -rated institutions.  
+ 
+e) Mineral properties and equipment  
+On initial acquisition, mineral properties and equipment are valued at cost, being the purchase price 
+and the directly attributable costs of acquisition. The Company capitalizes cash and share -based 
+payments made to acquire mineral properties . Land is stated at cost less any impairment in value 
+and is not depreciated. Exploration and evaluation  costs are capitalized if a pre -feasibility study 
+demonstrates that future economic benefits are probable. Upon disposal or abandonment, the 
+carrying amount of minera l properties are derecognized and any associated gains or losses are 
+recognized in profit and loss.   
+ 
+i. Depreciation  
+Depreciation is recognized in earnings or loss on a straight -line basis over the estimated useful lives 
+of each part of an item (component), since this most closely reflects the expected pattern of 
+consumption of economic benefits embodied in the asset. The estimated useful lives for assets and 
+components that are depreciated on a straight -line basis range from three to 10 years . 
+ 
+Depreciated assets  Useful Life  
+Computer equipment and software  3 years  
+Vehicles  4 years  
+Office equipment and furniture  5 to 10 years  
+Buildings and machinery  5 to 10 years  
+ 
+ii. Impairment  
+The carrying values of mineral properties are reviewed each reporting period or upon the occurrence 
+of events or changes in circumstances indicating that the carrying values of assets may not be 
+recoverable.  If any such indicator exists, then an impairmen t test is performed by management. 
+Indicators of impairment may include (i) the period during which the entity has the right to explore 
+in the specific area has expired during the year or will expire in the near future; (ii) substantive 
+expenditure on furt her exploration for and evaluation of mineral reserves and resources in the 
+specific area is neither budgeted nor planned; (iii) sufficient data exists to support that extracting the 
+reserves and resources will not be technically feasible or commercially viable based on technical 
+studies or desktop studies; and (iv) facts and circumstances suggest that the carrying amount 
+exceeds the recoverable amount.  
+ 
+Where an impairment loss subsequently reverses, the carrying amount of the asset or CGU is 
+increased to the revised estimate of its recoverable amount, but to an amount that does not exceed 
+the carrying amount that would have been determined had no impairm ent loss been recognized for 
+the asset or CGU in prior periods. A reversal of an impairment loss is recognized immediately in 
+earnings or loss.  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 9 
+ Where an item of mineral properties and equipment is disposed of, it is derecognized and the 
+difference between its ’ carrying value and net sales proceeds is disclosed as earnings or loss on 
+disposal in the consolidated financial statements of operations and total comprehensive loss. Any 
+items of mineral properties and equipment that cease to have future economic benefi ts are 
+derecognized with any gain or loss included in the financial year in which the item is derecognized.  
+ 
+f) Exploration and evaluation assets  
+Exploration and evaluation expenditures are comprised of costs that are directly attributable to: 
+researching and analy zing existing exploration data , conducting geological studies, exploratory 
+drilling and sampling , examining and testing extraction and treatment m ethods, and compiling 
+economic studies. Exploration  expenditures are costs incurred in the search for resources suitable 
+for commercial exploitation. Evaluation expenditures are costs incurred in determining the technical 
+feasibility and commercial viability of a mineral resource. Exploration and evaluatio n expenditures 
+are capitalized when there is a high degree of confidence in the project’s viability and thus it is 
+probable that future economic be nefits will flow to the Company . When a project is considered to 
+no longer have commercially viable prospects for the Company, exploration and evaluation costs in 
+respect of that property are assessed as impaired and written off to the statement of loss and total 
+comprehensive loss. The C ompany also assesses mineral property costs for impairment when other 
+facts and circumstances suggest that the carrying amount of an asset may exceed its recoverable 
+amount.  
+g) Leases  
+At inception of a contract, the Company assesses whether a contract is, or contains, a lease based 
+on whether the contract conveys the right to control the use of an identified asset for a period of 
+time in exchange for consideration. The Company recognize s a right -of-use asset and a lease liability 
+at the lease commencement date.  
+ 
+Right -of-use assets  
+The right -of-use asset is initially measured based on the initial amount of the lease liability, adjusted 
+for any lease payments made at or before the commencement date, plus any initial direct costs 
+incurred and an estimate of costs to dismantle and remove the underlying asset or to restore the 
+underlying asset or the site on which it is located, less any lease incentives received. Right -of-use 
+assets are classified as other fixed assets in the consolidated statement of financial position.  
+ 
+The assets are depreciated to the earlier of the end of the useful life of the right -of-use asset or the 
+lease term using the straight -line method as this most closely reflects the expected pattern of 
+consumption of the future economic benefits. The lease term includes periods covered by an option 
+to extend if the Company is reasonably certain to exercise that option.  
+ 
+Lease liabilities  
+The lease liability is initially measured at the present value of the lease payments that are not paid 
+at the commencement date, discounted using the interest rate implicit in the lease or, if that rate 
+cannot be readily determined, the Company’s increment al borrowing rate. Generally, the Company 
+uses its incremental borrowing rate as the discount rate. The lease liability is measured at amortized Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 10 
+ cost using the effective interest method. Interest recognized on the consolidated statement of 
+operations and comprehensive loss is classified as a financing cost.  
+ 
+The lease liability is remeasured when there is a change in future lease payments arising from a 
+change in an index or rate, if there is a change in the Company’s estimate of the amount expected 
+to be payable under a residual value guarantee, or if the Com pany changes its assessment of whether 
+it will exercise a purchase, extension , or termination option. A corresponding adjustment is made to 
+the carrying amount of the right -of-use asset or is recorded in profit or loss if the carrying amount of 
+the right -of-use asset has been reduced to zero upon remeasurement of the liability.  
+ 
+h) Provisions  
+A provision is recognized if, as a result of a past event, the Company has a present liability for 
+statutory, contractual, constructive, or legal obligations that can be estimated reliably, and it is 
+probable that an outflow of economic benefits will be required to settle the obligation. Provisions 
+are determined by discounting the expected future cash flows at a pre -tax rate that reflects current 
+market assessments of the  time value of money and the risks specific to the liability. The unwinding 
+of the discount is recognized as finance cost.  
+ 
+i) Financial instruments  
+Measurement  
+Financial assets and liabilities are recognized when the Company becomes a party to the contractual 
+provisions of the instrument. On initial recognition, all financial assets and liabilities are recorded at 
+fair value, net of attributable transaction costs , except for financial assets and liabilities classified as 
+fair value through profit or loss (“FVTPL”). Transaction costs of financial assets and liabilities classified 
+as at FVTPL are expensed in the period in which they are incurred.  
+ 
+Subsequent measurement of financial assets and liabilities depends on the classifications of such 
+assets and liabilities. Management determines the classification on initial recognition.  
+ 
+Subsequent to the initial measurement at fair value, all recognized financial assets are required to 
+be subsequently measured at amortized cost or fair value. Financial assets that are held within a 
+business model whose objective is to collect the contractual cash flows, an d that have contractual 
+cash flows that are solely payments of principal and interest on the principal outstanding are 
+generally measured at amortized cost in subsequent periods. Financial assets that have a business 
+model whose objective is achieved by bo th collecting the contractual cash flows and selling financial 
+assets are generally measured at fair value through other comprehensive income (“FVTOCI”). All 
+other financial assets are measured at fair value through profit and loss (“FVTPL”) in subsequent 
+accounting periods. In addition, on initial recognition of an equity investment that is not held for 
+trading, the Company may irrevocably elect to present subsequent changes in the investment’s 
+FVTOCI, with only dividend income generally recognized in prof it or loss. Transaction costs for 
+financial assets held at FVTPL are expensed, for all other financial assets, they are recognized at fair 
+value at initial measurement plus any directly attributable transaction costs.  
+ 
+Financial liabilities are designated as either: (i) FVTPL; or (ii) other financial liabilities. All financial 
+liabilities are classified and subsequently measured at amortized cost except for financial liabilities Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 11 
+ at FVTPL. The classification determines the method by which the financial liabilities are carried on 
+the balance sheet , subsequent to inception , and how changes in value are recorded.  
+ 
+For an impairment of financial assets , an ‘expected credit loss’ model is applied which requires a loss 
+allowance to be recognized based on expected credit losses. This applies to financial assets measured 
+at amortized cost. The expected credit loss model is updated at each reporting date to r eflect 
+changes in initial recognition.  
+ 
+j) Share Capital  
+Common shares are classified as equity. Incremental costs directly attributable to the issue of 
+common shares are recognized as a deduction from equity, net of any tax effects.  
+ 
+k) Warrants  
+Warrants are classified as equity, separately from common shares and are valued at their fair value 
+on grant date. The fair value of the warrants issued  is measured using the Black -Scholes pricing 
+model, considering the terms and conditions upon which the warrants were granted. The impact of 
+changes to the original terms of a warrant grant or revisions to original estimates are accounted for 
+prospectively  and recognized in equity with a corresponding change in contributed surplus on the 
+date of remeasuremen t. Consideration received on the exercise of warrants is recorded as share 
+capital and the related contributed surplus is transferred from  warrants, within the Company’s 
+equity accounts.  
+ 
+l) Share -based compensation  
+The Company recognizes share -based compensation expense for share purchase options, restricted 
+share units  (“RSU”) and deferred share units (“DSU”) granted to directors, officers, and employees 
+under the Company’s equity -based incentive plans.  
+ 
+Share purchase options  
+ 
+The fair value of options granted is recognized as a share -based payment expense with a 
+corresponding increase in equity. The fair value is measured at grant date and each tranche is 
+recognized on a graded -vesting basis over the period during which the options vest. The fair value of 
+the options granted is measured using the Black -Scholes opt ion pricing model, considering the terms 
+and conditions upon which the options were granted. The Company annually revises its estimates of 
+the number of options that are expected to vest based on the non -market vesting conditions. It 
+recognises the impact of the revision to original estimates, if any, in profit or loss, with a 
+corresponding adjustment to reserve.  
+ 
+In situations where equity instruments are issued to non -employees and some or all the goods or 
+services received by the entity as consideration cannot be specifically identified, they are measured 
+at fair value of the share -based payment. Consideration received on the exercise of stock options is 
+recorded as share capital and the related contributed surplus is transferred to share capital.  
+ 
+ Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 12 
+ Restricted share units  
+ 
+The fair value of RSUs is determined by the market value of the underlying shares at the date of the 
+grant. Under the Company’s RSU Plan, the Board of Directors has the discretion to settle the vested 
+RSUs in cash or equity. As the Company does not have a present obligation to settle the issued RSUs 
+in cash, the RSUs issued have been treated as equity -settled instruments. The fair values of RSUs at 
+the date of gra nt are expensed over the vesting periods with a corresponding increase to equity. At 
+the end of  each reporting period, the Company re -assesses its estimates of the number of awards 
+that are expected to vest and recognizes the impact of any revisions to this estimate in equity.  
+ 
+Deferred share units  
+ 
+DSUs awarded to non -executive directors may be settled in cash or equity at the discretion of the 
+Board of Directors and are measured at the fair value which is determined based on the closing share 
+price of the Company on the date of the grant. As the Company does not have a present obligation 
+to settle the issued DSUs in cash, the DSUs issued have been treated as equity -settled instruments.  
+The fair values of the DSUs at the date of grant are expensed over the vesting periods with a 
+corresponding increase to equity.  
+ 
+m) Income taxes  
+Income tax on the earnings or loss for the years presented comprises current and deferred tax. 
+Income tax is recognized in earnings or loss in the statements of operation except to the extent that 
+it relates to items recognized directly in equity, in which  case it is recognized in equity.  
+ 
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year using 
+tax rates enacted or substa ntively  enacted at the reporting date, and any adjustment to tax payable 
+in respect of previous years.  
+ 
+Deferred tax is recognized in respect of temporary differences between the carrying amounts of 
+assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. 
+Deferred tax is not recognized for the following temporary di fferences: the initial recognition of 
+assets or liabilities in a transaction that is not a business combination and that affects neither 
+accounting nor taxable operations, and differences relating to investments in subsidiaries and jointly 
+controlled entit ies to the extent that it is probable that they will not reverse in the foreseeable 
+future. In addition, deferred tax is not recognized for taxable temporary differences arising on the 
+initial recognition of goodwill. Deferred tax is measured at the tax ra tes that are expected to be 
+applied to temporary differences when they reverse, based on the laws that have been enacted or 
+substantially enacted by the reporting date.  
+ 
+A deferred tax asset is recognized for unused tax losses, tax credits and deductible temporary 
+differences, to the extent that it is probable that future taxable profits will be available against which 
+they can be utilized. Deferred tax assets are reviewed  at each reporting date and are reduced to the 
+extent that it is no longer probable that the related tax benefit will be realized.  
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 13 
+ n) Total comprehensive loss  
+Total comprehensive loss is comprised of net loss and other comprehensive income (loss). The 
+Company has other comprehensive income (loss) components  result ing from  currency translation 
+adjustments from the functional currency of MXP in Discovery Mexico to the presentation currency 
+of CAD in the consolidated financial statements.  
+ 
+o) Earnings (loss) per share  
+Basic earnings or loss per share (“EPS”) represents the profit or loss for the period, divided by the 
+weighted average number of common shares in issue during the period. Diluted EPS represents the 
+profit for the period, divided by the weighted average number of common shares in issue during the 
+period plus the weighted average number of dilutive shares that could result from the exercise of 
+stock options , warrants and other similar instruments where the inclusion of these items would not 
+be anti -dilutive. When a loss per share calculation based on the fully diluted number of shares would 
+be less than the loss per share calculated on the basic number of sh ares, diluted losses per share is 
+anti-dilutive and accordingly, the diluted loss per share would be the same as the basic loss per share.  
+ 
+4. ACCOUNTING P RONOUNCEMENTS   
+Adoption of New Accounting Standards  
+ 
+The new standards, or amendments to standards and interpretations that were adopted  by the 
+Company,  effective January 1, 202 4, are as follows:  
+ 
+Classification of Liabilities as Current or Non -Current (Amendment to IAS 1)  
+ 
+The amendments aim to promote consistency in applying the requirements by helping companies 
+determine whether,  in the statement of financial position, debt and other liabilities with an uncertain 
+settlement date should be classified as  current (due or potentially due to be settled within one year) or 
+non-current.  
+ 
+The adoption of these amendments did not have a material impact on the Company’s consolidated  
+financial statements.  
+ 
+Future Accounting Standards and Interpretations  
+ 
+The Effects of Changes in Foreign Exchange  Rates  (Amendment to IAS 21) 
+ 
+The amendments address the l ack of exchangeability which applies when one currency cannot be 
+exchanged into another  as a result, for example, of  government -imposed controls on capital imports 
+and exports, or a limitation on the volume of foreign currency transactions that can be undertaken at 
+an official exchange rate. The amendments clarify when a currency is considered exchangeable into 
+another currency, and how an entity estimates a spot rate for currencies that lack exchangeability. The 
+amendments intro duce new disclosures to help financial statement users assess the impact of using an 
+estimated exchange rate.  
+ Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 14 
+ This amendment is effective for annual periods beginning on or after January 1, 2025. The adoption of 
+these amendments is not anticipated to have a material impact on the Company’s financial statements . 
+ 
+Classification and Measurement of Financial Instruments  (Amendment to I FRS 9 and IFRS 7 ) 
+ 
+The amendments clarify  that financial assets and financial liabilities are recognized and derecognized at 
+settlement date except for regular way purchases or sales of financial assets and financial liabilities 
+meeting conditions for a new exception. The new exception permits companies to elect to derecognize 
+certain financial liabilities settled via electronic payment systems earlier than the settlement date.  
+ 
+They also provide guidelines to assess contractual cash flow characteristics of financial assets, which 
+apply to all contingent cash flows, including those arising from environmental, social, and governance 
+ESG linked features. Additionally, these amendments introduce new disclosure requirements and 
+update others.  
+ 
+This amendment is effective for annual periods beginning on or after January 1, 202 6. The impact of 
+these amendments on the Company’s financial statements has not yet been evaluated . 
+ 
+Presentation and Disclosure in Financial Statements (“IFRS 18”)  
+ 
+IFRS 18 replaces IAS 1  – Presentation of Financial Statements , which sets out presentation and base 
+disclosure requirements for financial statements. The changes, which mostly affect the income 
+statement, include the requirement to classify income and expenses into three new categories – 
+operating, investing and fin ancing – and present subtotals for operating profit or loss and profit or loss 
+before financing and income taxes.  
+ 
+Further, operating expenses are presented directly on the face of the income statement – classified 
+either by nature (e.g. employee compensation), by function (e.g. cost of sales) or using a mixed 
+presentation. Expenses presented by function require more d etailed disclosures about their nature.  
+ 
+IFRS 18 also provides enhanced guidance for aggregation and disaggregation of information in the 
+financial statements, introduces new disclosure requirements for management -defined performance 
+measures ( “MPMs ”) and eliminates classification options for interest and dividends in the statement of 
+cash flows.  Non-GAAP measures that meet the definition of MPMs will be subject to the disclosure 
+requirements  
+ 
+This amendment is effective for annual periods beginning on or after January 1, 202 7. The impact of 
+these amendments on the Company’s financial statements has not yet been evaluated . 
+ 
+5. CRITICAL JUDGMENTS AND  ESTIMATES IN APPLYING ACCOUNTING POLICIES  
+The preparation of consolidated financial statements in conformity with IFRS  Accounting Standards  
+requires management to make judgments and estimates that affect the application of accounting 
+policies and the reported amounts of assets, liabilities, contingent liabilities, income and expenses. 
+Actual results could differ from these estimates. Estimate s and underlying assumptions are reviewed on Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 15 
+ an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates 
+are revised and applied prospectively.  
+ 
+a) Critical accounting judgments  
+ 
+The significant areas of judgment considered by management in preparing the consolidated financial 
+statements include, but are not limited to:  
+ 
+i. Functional currency  
+ 
+The functional currency for each of the Company and its subsidiaries is the currency of the 
+primary economic environment in which the entity operates. The Company has determined that 
+for each of the Canadian entities, the functional currency is CAD and for  the Mexican subsidiar ies 
+the functional currency is MXP. Foreign exchange differences arising from the translation from 
+functional to presentation currency are recognized each period in other comprehensive income 
+(loss) and may or may not be subsequently reclassified to profit or loss depending on future 
+events.  
+ 
+ii. Economic recoverability and probability of future economic benefits of exploration, evaluation 
+and development costs  
+The Company makes determinations whether development and related costs incurred which 
+have been capitalized are economically recoverable. Management uses several criteria in its 
+assessments of economic recoverability and probability of future economic bene fits including 
+geological and metallurgical information, economic assessments and existing permits for land 
+access and drilling. The estimates contained within these criteria could change over ti me which 
+could affect the economic recoverability of capitali zed costs.  
+ 
+b) Critical accounting estimates  
+The information about significant areas of estimation uncertainty considered by management in 
+preparing the financial statements is as follows:  
+ 
+i. Impairment charges  
+The Company assesses its CGUs at each reporting date to determine whether any indication of 
+impairment exists. Where an indicator of impairment exists, an estimate of the recoverable 
+amount is made, which is the higher of the fair value less costs to sell and value in use.  
+ 
+Management periodically reviews the carrying values of its exploration and evaluation assets 
+with internal and external mining professionals. A decision to abandon, reduce or expand a 
+specific project is based upon many factors including general and specific assessments of 
+resources, forecast future metal prices, forecast future costs of exploring, and the general 
+likelihood that the Company wil l continue exploration. The Company does not set a 
+predetermined holding period for properties with unproven reser ves. However, properties 
+which have not demonstrated suitable mineral concentrations at the conclusion of each phase Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 16 
+ of an exploration program are re -evaluated to determine if future exploration is warranted and 
+their carrying values are recoverable.  
+ 
+ii. Sales tax recoverability  
+The Company incurs significant expenditures for the purchase of goods and services on which 
+sales tax is paid (“GST/HST” in Canada and “IVA” in Mexico). The net amount paid is recoverable 
+but is subject to review and assessment by the relevant tax authorities (Canada Revenue Agency 
+(“CRA”) in Canada and the Servicio de Administración Tributaria (“SAT”) in Mexico). The 
+Company files GST/HST returns on a qua rterly basis with the CRA and regularly files the required 
+IVA returns and all supporting documentation  with SAT.  
+ 
+Management applies significant judgment in assessing the recoverability of the IVA including: i) 
+collections of previous claims made with the tax authority received during and in prior years; ii) 
+communications with tax authorities and iii) review of the appropriateness of the supporting 
+information.  
+ 
+The Company is in regular contact with SAT in respect of its IVA filings and believes the full 
+amount of its IVA receivables will ultimately be received; however, the timing of recovery of 
+these amounts and the nature and extent of any adjustments to the Company’s IVA receivables 
+remains uncertain. Management assesses collectability and classification of the asset between 
+current and non -current at each reporting period.  If there is uncertainty surrounding 
+collectability of a specific amount, the Company re cords a provision. Once there is an expectation 
+of recovery, that specific amount is recognized as a long -term receivable and the related 
+provision reversed (note 7).  
+ 
+iii. Share -based payments  
+The fair value of the estimated number of stock options , RSUs and DSUs, that will eventually vest 
+is recognized as share -based compensation expense over the vesting period of the stock options 
+with the corresponding increase in equity.  
+ 
+Determining the fair value of stock options , RSUs and DSUs  require s the exercise of judgment 
+related to the choice of a pricing model, the estimation of stock price volatility, the expected 
+forfeiture rate , and the expected term of the underlying instruments. Option pricing models 
+require the input of highly subjective assumptions including the expected price volatility and 
+expected life. Changes in the subjective input assumptions can materially affect the fair value 
+estimate, and therefore the existing mo dels do not necessarily provide a reliable single measure 
+of the fair value of the Company’s options at the date of grant. Any changes in the estimates or 
+inputs utilized to determine fair value could result in a significant impact on the Company’s 
+future operating results or on other components of equity.  
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 17 
+ 6. CASH AND CASH EQUIVALENTS  
+  December 31 ,  December 31, 
+  2024  2023 
+Cash $ 28,960,579  $ 58,664,459  
+Cash equivalents   350,000   280,000  
+ $ 29,310,579  $ 58,944,459  
+ 
+Cash equivalents include marketable securities with short -term maturities of three months or less at 
+inception and no restrictions on redemption.  
+ 
+7. SALES TAX AND OTHER RECEIVABLES  
+    December 31 ,  December 31,  
+    2024  2023 
+Sales and value -added tax receivable (a)    $ 5,271,893  $ 4,481,483  
+Other receivables     82,896   237,086  
+   $ 5,354,789  $ 4,718,569  
+ 
+The Company pays sales in Canada (“HST”) and its  Mexican subsidiaries pay value -added tax, Impuesto al 
+Valor Agregado (“IVA”) on the purchase of goods and services. Both  HST and IVA paid is recoverable but 
+subject to review and assessment by the respective tax authorities - Canada Revenue Agency (“CRA”) and 
+the Mexican tax authority (“ SAT”). The complex application process and detailed review by SAT in Mexico 
+can impact the collectability and timing of refunds.  
+ 
+During the year  ended December 31, 2023 , SAT completed an audit and the Company received a net 
+refund of $8.0 million, including interest and inflationary adjustments less legal fees. This refund was for 
+a cumulative five -year return filed with SAT in 2022, for months beginning August  2017 through  May 2022  
+(the “ Cumulative Refund”) . 
+ 
+a) Current and non -current value -added tax receivables  
+ 
+The Company has classified 100% of the HST receivable  balance of $298,497  as a current asset as 
+amounts are refunded by the CRA within twelve months  following the return being filed . The 
+Company exercises  judgement i n classifying the current and non -current portions of the IVA 
+receivable  balance  however,  the timing of refunds can vary based on SAT ’s review process . IVA which 
+is estimated to be collected within the next twelve months  is recorded  as a current  receivable  while 
+IVA expected to be collective beyond twelve months is  classified as a non-current  receivable . The 
+Company has recorded $ 2,819,754  as the current portion of the IVA receivable, and $ 2,153,568  as a 
+non-current receivable.  
+ 
+Since the receipt of the Cumulative Refund, SAT has since forcibly closed all outstanding receivable 
+balances prior to 2017 . As a  result , during the year end ed December 31, 2023  the company 
+recognized a net write off of $ 1,293,744 in IVA receivable relating to transactions prior to August 
+2017 .   Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 18 
+ 8. PROPERTY AND EQUIPMENT  
+ 
+ 
+Equipment  Vehicles  Office , 
+Furniture  & 
+Other  Computer  Total  
+Cost        
+Balance at January 1, 202 4 $ 1,255,535  $ 427,535  $ 759,733  $ 358,330  $ 2,801,133  
+Additions   83,084   38,923   1,744,794   19,553   1,886,354  
+Disposals   -  -  (7,021)   -  (7,021)  
+Currency translation  
+adjustment   (201,722)   (54,039)   (12,405)   (31,261)   (299,427)  
+Balance at December 31 , 2024 $ 1,136,89 7 $ 412,419  $ 2,485,10 1 $ 346,62 2 $ 4,381,03 9 
+      
+Accumulated depreciation             
+Balance at January 1, 2024  $ (336,448)  $ (332,853)  $ (343,261)  $ (277,125)  $ (1,289,687)  
+Additions   (89,410)   (70,282)   (178,730 )  (40,639)   (379,061 ) 
+Currency translation  
+adjustment   12,442   13,154   32,145   5,486   63,2 27 
+Balance at  December 31 , 202 4 $ (413,41 6) $ (389,981)  $ (489,846)  $ (312,278)  $ (1,605,521)  
+           
+Carrying amount  Equipment  Vehicles  Office , 
+Furniture  & 
+Other  Computer  Total  
+At January 1, 2024  $ 919,087  $ 94,682  $ 416,472  $ 81,205  $ 1,511,446  
+At December 31 , 2024 $ 723,48 1 $ 22,438  $ 1,995,25 5 $ 34,34 4 $ 2,775,51 8 
+ 
+ 
+ 
+Equipment  Vehicles  Office , Furniture  
+& Other  Computer  Total  
+Cost        
+Balance at January 1, 2023  $ 991,834  $ 380,291  $ 780,902  $ 290,718  $ 2,443,745  
+Additions   306,391   43,880   27,665   62,733   440,669  
+Disposals   -  -  (50,726)   -  (50,726)  
+Currency translation  
+adjustment   (42,690)   3,364   1,892   4,879   (32,555)  
+Balance at December 31, 2023  $ 1,255,535  $ 427,535  $ 759,733  $ 358,330  $ 2,801,133  
+      
+Accumulated depreciation             
+Balance at January 1, 2023  $ (170,304)  $ (216,777)  $ (234,280)  $ (182,763)  $ (804,124)  
+Additions   (83,876)   (86,552)   (134,778)   (58,538)   (363,744)  
+Currency translation  
+adjustment   (51,146)   (29,524)   34,430   (35,824)   (82,064)  
+Disposals   (31,122)   -  (8,633)   -  (39,755)  
+Balance at December 31, 2023  $ (336,448)  $ (332,853)  $ (343,261)  $ (277,125)  $ (1,289,687)  
+ 
+ 
+Carrying amount  Equipment  Vehicles  Office , Furniture  
+& Other  Computer  Total  
+At January 1, 202 3 $ 821,530  $ 163,514  $ 546,622  $ 107,955  $ 1,639,621  
+At December 31, 202 3 $ 919,087  $ 94,682  $ 416,472  $ 81,205  $ 1,511,446  
+ 
+ Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 19 
+ The Company following table summarizes the changes in right -of-use assets within plant and equipment:  
+ 
+Leased assets      Total  
+At January 1, 20 23         $ 548,194  
+Revaluation of ROU Asset           (50,726)  
+Depreciation           (108,635)  
+At December 31, 2023          $ 388,833  
+ROU Additions           1,737,604  
+Depreciation           (144, 774) 
+At December 31, 202 4         $ 1,981,663  
+ 
+9. MINERAL PROPERTIES  
+At January 1, 2023   $ 32,867,024  
+Currency translation adjustment    951,608  
+Acquisition of land(1)   23,037,798  
+Deferred land acquisition costs(2)   876,000  
+Additions(3)   22,662,858  
+At December 31 , 202 3  $ 80,395,288  
+Currency translation adjustment    (6,601,988)  
+Additions(3)   11,155,972  
+At December 31, 2024   $ 84,949,27 2 
+(1) The Company purchased the titles and deeds to various parcels of land on the Cordero property during the year  ended December 31 , 
+2023. The land acquisition includes the surface rights and national water concessions associated with the various land packages. The 
+acquisition agreement required an initial cash payment made during May 2023 of USD$7,500,000, with a second and third instalm ents of 
+USD$6,750,000 and USD$2,500,000 due in May 2024 and 2025  respectively . This final payment  has been recorded as a current liability, 
+on the Company ’s Statement of Financial Position as at December 31 , 202 4 (note s 10 and 12) 
+(2) This amount is recorded in other long -term liabilities and reflects the present value of the minimum annual payments of USD$50,000 per 
+year requ ired to be paid  if commercial production is not reached by May 2028  (the annual payment  is USD$600,000 per annum upon 
+declaration of commercial production and is payable over the life of the mine)  (note 12) .  
+(3) Due to the completion and results of the pre -feasibility study in January 2023, the Company began capitalizing eligible exploration and 
+evaluation expenditures in accordance with the accounting policy set out in note 3(f).  
+(4) On March 19, 2025, the Company acquired 66 hectares of land for USD$1.8M and now owns 100% of the land required for the 
+development of the Cordero property.  
+ 
+Costs Capitalized to the Cordero Mineral Property   December 31, 
+2024  December 31, 
+2023  
+Permitting  and Legal  $ 268,800   $ 661,867  
+Mining duties   924,944   811,967  
+Drilling   -  4,578,855  
+Mapping, sampling, and assays   -  1,885,095  
+Camp cost, site access and vehicles   1,718,556   2,703,937  
+Salaries and benefits   3,743,562   4,224,753  
+Project evaluation and geophysics   3,722,861   6,838,193  
+Administrative and other expenses   777,2 49  958,191  
+ $ 11,155,972  $ 22,662,858  
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 20 
+ 10. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES  
+  December 31 ,  December 31,  
+  2024  2023 
+Trade and other payables(1) $ 1,936,82 8 $ 2,750,394  
+Salaries and benefits payable(2)  3,243,341   1,290,734  
+Accrued liabilities(3)  3,179,469   8,015,517  
+ $ 8,359,638  $ 12,056,645  
+(1) At December 31 , 202 4, trade and other payables were comprised  primarily  of amounts payable for business development and 
+environmental studies while the December 31, 2023 balance consisted of mainly costs payable for work on the Cordero F easibility Study . 
+(2) Salaries and benefits payable were comprised of short -term incentive amounts payable to executive management and employees.  
+(3) Accrued liabilities is comprised primarily of the final  instalment of USD$ 2,500 ,000 related to the acquisition of land during 2023 to be 
+paid in May 2025 (note 1 2). 
+11. LEASE LIABILITIES  
+  December 31 ,  December 31,  
+  2024  2023 
+Lease liabilities  $ 1,465,4 87 $ 410,414  
+Less: current portion   247,674   111,580  
+Non -current portion  $ 1,217,81 3 $ 298,834  
+(1) During 2022, the Company renewed the corporate office lease for an additional five-year term  at an  incremental borrowing rate of 3.95% , 
+and during 2024 the Company signed a 30-year  surface access agreement in Mexico  at an incremental borrowing rate of 10.91%.  
+12. OTHER LONG -TERM LIABILITIES  
+  December 31,   December 31,  
+  2024  2023 
+Land acquisition payable(1) $ - $ 3,301,833  
+Long -term provision for future land payment obligation(2)  1,069,44 8  876,000  
+ $ 1,069,44 8 $ 4,177,833  
+(1) At December 31 , 2023, other  long term  liabilities were comprised of the final instalment payment of USD$2,500,000 due in May 2025 
+for the land acquisition . This was  reclassified to current liabilities as at December 31, 2024 as the payment is due in less than 12 months.  
+(2) This provision is the minimum amount payable annually under the land acquisition agreement signed in May 2023 (the “Agreement”), if 
+commercial production is not achieved  by May 2028 . The penalty clause requires payment of USD$50,000 for each year delayed (with 
+an annual increase of USD$5,000 to this amount until commercial production is reached) (the “ Annual Payments”). This provision was 
+calculated as the present value of the Annual Payments, using a discount rate of 8% with the accretion expense being rec ognized over 
+the 25 years of payments per the Agreement . Once commercial production is achieved, the Annual Payments under the Agreement are 
+USD$600,000 over 25 years with the last 5 years of payments, totaling USD$3,000,000 to be paid in advance (USD$1,000,000 24 m onths 
+after signing the Agreement ( payable May 2025 and recognized in current liabilities  in the consolidated statement of financial position ) 
+and USD $2,000,000 to be paid on declaration of commercial production.  
+ 
+13. SHARE CAPITAL  
+a) Authorized  
+ 
+i. Unlimited common shares with no par value ; and  
+ii. Unlimited preferred voting shares with no par value . 
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 21 
+ b) Shares issued  and outstanding  
+ 
+ Note  Common Shares   Amount  
+At January 1 , 2023  351,941,580  $ 166,732,378  
+Shares issued for marketed public offering(1)  43,125,000   51,750,000  
+Finders’ fees incurred for marketed public offering(1) 13c -  (3,008,444)  
+Shares issued on exercise of options  13c 528,650   374,642  
+Shares issued on exercise of RSUs  13d 267,019   345,587  
+At December 31, 2023   395, 862,249  $ 216, 194,163  
+Shares issued on exercise of options  13c 3,468,450   2,625,45 6 
+Shares issued on exercise of RSUs  13d 1,130,545   1,391,50 9 
+At December 31, 2024   400,461,244  $ 220,211,128  
+(1) On April 19, 2023, the Company announced the closing of its marketed public offering of common shares of the Company for 
+aggregate gross proceeds of approximately $51,750,000. The offering consisted of the sale of 43,125,000 common shares that 
+included the full exercise of the Agents’ option at a price of $1.20 per  share.  
+ 
+The non-cash share -based compensation expense for the year  ended December 31 , 202 4, was 
+$4,446,03 8 (year  ended December 31 , 2023 - $5,673,104).  
+c) Stock Options  
+ 
+The Company has adopted a rolling 10% stock option  plan (the “ Option Plan”) which provide s that 
+the Company ’s Board of Directors (the “Board”)  may grant options  to purchase  common shares of 
+the Company to directors, officers, employees and service providers, with the number of options 
+being limited to 10% of the issued common shares at the time of granting of options. This 10% limit 
+is in aggregate and is shared with the Company’s RSU and DSU plans (note 1 3d). The Board in its sole 
+discretion may determine any vesting provisions for options. The exercise price shall be determined 
+by the directors of the Company at the time of grant in accordance with the provisions of the Option 
+Plan. The expiry date for an option shall not be more than ten years from the grant date.  
+ 
+There were no options granted during the year ended December 31, 2024. There were 1,60 0,000 
+stock options granted during the  year ended December 31 , 202 3, with a weighted average exercise 
+price of $1.42 and a five -year term to expiry. The options granted vest annually in three equal 
+tranches beginning on the first anniversary of the grant date of January 26, 2023. The Options will 
+expire on January 26, 2028, five years after the grant date.  Options granted are fair valued using the 
+Black -Scholes option pricing model , which  require s the input of highly subjective assumptions. 
+Volatility is estimated based on average daily volatility based on historical share price observations 
+over the expected term of the option grant.  
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 22 
+ Option transactions and the number of options outstanding are summarized as follows:   
+ 
+ 
+Outstanding  Weighted Average 
+Exercise Price  
+   
+At January 1, 2023  20,465,017  $ 1.46 
+Options granted  1,600,000   1.42  
+Options exercised  (528,650)   0.47 
+Options forfeited  (1,542,709 )  1.96  
+At December 31, 2023  19,993,658  $ 1.44 
+Options exercised  (3,468,450 )  0.49  
+Options forfeited  (673,333 )  1.93  
+At December 31 , 202 4 15,851,875  $ 1.63  
+ 
+At December 31 , 2024, the options outstanding and exercisable are as follows:  
+ 
+ Options Outstanding  Options Exercisable  
+Exercise 
+Price  Number  Weighted 
+average  
+remaining life  Weighted 
+average  
+exercise price  Number  Weighted 
+average  
+remaining life  Weighted 
+average  
+exercise price  
+$0.65  50,000  0.27  $0.65  50,000  0.27  $0.65  
+$0.47  2,930,000  0.57  $0.47  2,930,000  0.57  $0.47  
+$1.89  4,696,875  1.28  $1.89  4,696,875  1.28  $1.89  
+$2.08  300,000  1.44  $2.08  300,000  1.44  $2.08  
+$1.77  200,000  2.09  $1.77  200,000  2.09  $1.77  
+$2.05  5,575,000  2.27  $2.05  5,184,375  2.27  $2.05  
+$1.76  400,000  2.53  $1.76  400,000  2.53  $1.76  
+$1.38  100,000  2.65  $1.38  100,000  2.65  $1.38  
+$1.42  1,600,000  3.32  $1.42  533,333  3.32  $1.42  
+ 15,851,875  0.96  $1.63  14,394,583  0.81  $1.63  
+ 
+Black -Scholes pricing models require the input of highly subjective assumptions. Volatility was 
+estimated based on average daily volatility based on historical share price observations over the 
+expected term of the option grant.  
+ 
+d) Deferred Share Units and Restricted Share Units  
+ 
+The Company has adopted rolling 10% DSU and RSU Plans , that share the  10% threshold with the 
+10% rolling Option Plan . The  combined aggregate total Options, DSUs , and RSUs granted cannot 
+exceed 10% of the issued and outstanding common shares of the Company.   
+ 
+The DSU Plan provide s that the Board  may grant DSUs to non -executive directors of the Company, 
+to be settled in cash or common shares of the Company , at the discretion of the Board . The RSU Plan 
+provides that the Board  may grant RSUs to eligible  officers, and employees , to be settled in cash or 
+common  shares of the Company , at the discretion of the Board . The Board in its sole discretion may 
+determine any vesting provisions for DSUs and RSUs .  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 23 
+  
+Pursuant to the Company’s restricted share unit plan, an aggregate total of 3,239,529  RSUs were 
+granted to certain officers , employees , consultants and advisors  during the year ended December 
+31, 202 4 (year ended December 31 , 202 3 – 4,024,202 RSUs granted). The RSUs, each redeemable 
+for one common share of the Company, vest annually in three equal tranches beginning on the first 
+anniversary of each  grant date.  
+ 
+Pursuant to the Company’s deferred share unit plan, an aggregate total of 1,475,997 DSUs  were 
+granted to non -executive directors during the year  ended December 31,  2024 (year ended December 
+31, 2023 - 1,475,997  DSUs granted) . The DSUs vest on the first anniversary of each  grant date, but 
+may only be redeemed on the termination date of a director, in accordance with the DSU Plan.  
+ 
+The following tables reflect the continuity of RSUs and DSUs granted and redeemed during the year 
+ended December 31 , 202 4 and 202 3. 
+ 
+ 
+Number of RSU’s  Weighted average 
+redemption  price  ($) 
+At January 1 , 2023 125,000   - 
+RSUs granted  4,024,202   - 
+RSUs redeemed  (267,019 )  1.29 
+RSUs forfeited  (390,552 )  - 
+At December 31 , 202 3 3,491,631   - 
+RSUs  granted  3,239,529   - 
+RSUs redeemed  (1,130,545)   0.82  
+At December 31 , 202 4 5,600,615   - 
+ 
+ 
+Number of DSU’s  Weighted average 
+redemption  price ($)  
+At January 1, 20 23 -  - 
+DSUs granted  1,475,997   - 
+At December 31, 2023  1,475,997   - 
+DSUs  granted  900,000   - 
+At December 31 , 202 4 2,375,997   - 
+ 
+e) Warrants  
+ 
+The Company ha d issued warrants as part of certain subscription agreements and finders ’ fees for 
+certain non -brokered private placements that closed during  2017, 2019 and 2020. The warrants were  
+exchangeable for Common Shares of the Company at a ratio and an exercise price determined at the 
+time of the individual private placement.  Warrants are classified as equity, separately from common 
+shares and are valued at their fair value  on grant date using  the Black -Scholes pricing model . There 
+were no warrants issued during the year  ended  December 31 , 202 4, and no warrants outstanding as 
+at December 31, 202 4 (as at and for the year ended December 31, 202 3: no warrants issued or 
+outstanding) . Refer to note 23 for details on warrants issued subsequent to December 31, 2024.  
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 24 
+ 14. EXPLORATION AND PROJECT EVALUATION  
+ 
+Due to the completion and results of the pre -feasibility study during the first quarter of 2023, the 
+Company began capitalizing eligible exploration expenditures beginning January 1, 2023. Exploration and 
+project evaluation expenditures not capitalized are  those costs not directly attributable to the Cordero 
+Project. These costs include permitting, surface access, drilling, mapping, sampling and assaying, 
+geophysics, salaries and benefits and other costs pertaining primarily to the Company’s property -wide 
+exploration program. During the year  ended December 31, 2024, the Company spent $507,383  in 
+exploration expenses (year  ended December 3 1, 2023 - $3,743,940 ). 
+ 
+15. GENERAL OFFICE AND OTHER EXPENSES  
+  Years Ended December 31 , 
+      2024  2023  
+Travel      $ 283,186  $ 501,315  
+Salaries and benefits       7,107,152   3,845,928  
+Shareholder communication and investor relations       523,896   549,985  
+Filing and transfer agent fees       202,185   653,689  
+Rent       221,33 8  147,025  
+Depreciation       379,061   362,964  
+General office and other       1,679,164   2,144,922 
+Business development(1)      2,581,467   447,261  
+     $ 12,977,449  $ 8,653,089  
+(1) Costs include legal, consulting, advisory and other expense s primarily related to  the evaluation of the Porcupine Complex.  
+ 
+16. PROFESSIONAL FEES  
+  Years  Ended December 31 , 
+      2024  2023  
+Legal      $ 106,497  $ 406,437  
+Audit , tax  and accounting       578,194   275,953  
+Consulting  and other       795,130   864,910  
+     $ 1,479,821  $ 1,547,300  
+ 
+17. INCOME TAXES  
+  Years Ended December 31 , 
+      2024  2023 
+Loss before tax at statutory rate of 28% (202 3 – 
+28%)      $ 6,605,363  $ 4,032,413  
+Effect on taxes of:          
+ Non -deductible expenses       (1,253,228)   (1,598,833)  
+ Change in provision for 
+unrecognized deferred tax 
+assets       (5,352,135)   (2,433,580)  
+Income tax expense      $ - $ - Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 25 
+ a) Unrecognized Deductible Temporary Differences  
+ 
+Deferred tax assets have not been recognized in respect of the following deductible temporary 
+differences.  
+ 
+In Canada, the Company has aggregate tax losses not recognized of $28,879,852  expiring in periods 
+from 2026 – 2046. Deferred tax assets have not been recognized in respect of these losses because 
+it is not probable that future taxable profit will be available against which the Company can utilize 
+the benefits. The capital loss carryforwards of $12,640,000 in Canada are without expiry.  In Mexico, 
+the Company’s subsidiaries have $ 69,930,593 of non-capital loss carry -forwards expiring in periods 
+from 2025 – 2034. 
+ 
+  Years Ended  
+   December 31,  December 31,  
+      2024  2023 
+Non -capital loss carry -forwards      $ 98,555,549  $ 74,947,973   
+Capital loss carry -forwards       12,640,000   12,640,000  
+Resource properties       128,192,850   105,127,904  
+     $ 239,388,399  $ 192,215,877   
+ 
+18. CAPITAL MANAGEMENT  
+The Company defines capital as its shareholder’s equity (comprised of issued share capital, contributed 
+surplus and deficit). The Company’s objectives when managing capital are to support the Company’s 
+main activities of identifying, defining , and developing mineral deposits, with the goal of creating 
+shareholder value, as well ensuring that the Company will be able to meet its financial obligations as 
+they become due.  
+ 
+The Company manages its capital structure to maximize its financial flexibility to enable the Company 
+to respond to changes in economic conditions and the risk characteristics of the underlying assets and 
+business opportunities. Management reviews its capi tal management approach on an ongoing basis 
+and believes that this approach, given the relative size of the Company, is reasonable. The current 
+excess funds realized from the non -brokered private placements are invested in highly liquid, interest -
+bearing m arketable securities with no restrictions on redemption.  
+ 
+At December 31 , 202 4, the Company does not have any long -term debt outstanding and is not subject 
+to any externally imposed capital requirements or debt covenants. There was no change to the 
+Company’s approach to capital management during the year  ended  December 31 , 202 4. 
+19. FINANCIAL INSTRUMENTS  
+The Company’s financial instruments consist of cash  and cash equivalents , other  receivable  and deposits, 
+investments in marketable securities, accounts payable and accrued liabilities  and lease liabilities . 
+ 
+Cash and cash equivalents , accounts receivable and deposits  are classified as receivables and are 
+measured at amortized cost using the effective interest method.  Investments  in marketable securities  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 26 
+ are classified as receivables and are measured at fair value through profit and loss . Accounts payable and 
+accrued liabilities are classified as other financial liabilities and are measured at amortized cost. These 
+financial instruments approximate their fair value due to their short -term nature.  
+ 
+The fair value estimates are made at a specific point in time, based on relevant market information and 
+information about the financial instrument. These estimates are subjective in nature and involve 
+uncertainties and matters of significant judgment and, therefore, cannot be determined with precision. 
+Changes in assumptions could significantly affect the estimates.  
+ 
+Financial instruments are classified into one of three levels in the fair value hierarchy according to the 
+degree to which the inputs used in the fair value measurement are observable.  
+ 
+• Level 1: Unadjusted quoted prices in active markets for identical assets or liabilities;  
+• Level 2: Inputs other than quoted prices that are observable for the asset or liability either directly 
+or indirectly; and  
+• Level 3: Inputs that are not based on observable market data.  
+ 
+At December 31 , 2024 the Company had no financial instruments classified as Level 2 or 3.   
+ 
+20. FINANCIAL RISK MANAGEMENT  
+The Company is exposed to financial risks, including credit risk, liquidity risk, currency risk, interest rate 
+risk and price risk. The aim of the Company’s overall risk management strategy is to reduce the potential 
+adverse effect that these risks may hav e on the Company’s financial position and results. The Company’s 
+Board of Directors has overall responsibility and oversight of management’s risk management practices. 
+Risk management is carried out by the Board through the Nominating and Corporate Governa nce 
+Committee with the policies being recommended for approval by the Board of Directors at least annually 
+or when changes are required.  
+ 
+a) Liquidity risk 
+ 
+Liquidity risk is the risk that an entity will encounter difficulty in meeting obligations associated with 
+financial liabilities. The Company’s approach to managing liquidity risk is to ensure that it will have 
+sufficient liquidity to meet liabilities when due. At December 31 , 202 4, the Company had a cash and 
+cash equivalents balance of $29,310,579 (December 31, 20 23 – $58,944,459 ) to settle current 
+liabilities of $8,607,312 (December 31, 20 23 – $12,168,225 ). The Company’s financial liabilities have 
+contractual  maturities of less than 30 days and are subject to normal trade terms.   
+ 
+At December 31 , 2024, the Company has no sources of revenue to fund its operating and 
+development expenditures  and has historically relied solely on non-brokered private placements to 
+fund its operations.  The Company’s cash balance at December  31, 202 4 is sufficient to  fund  the 202 5 
+work  program  related to current operations as well as the existing administrative needs. The 
+Company may require additional financing to accomplish long -term strategic objectives. Future 
+funding may be obtained by means of an equity  or debt financing  (refer to note 23 “Events after the 
+reporting period” for an update on equity and debt financing) . Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 27 
+ b) Credit risk  
+ 
+Credit risk is the risk that one party to a financial instrument will fail to fulfill an obligation and cause 
+the other party to incur a financial loss. The Company’s cash and cash equivalents, short -term 
+investments, accounts receivable and prepaids and deposits are exposed to credit risk. The Company 
+has assessed the credit risk on its cash and cash equivalents and short -term investments as low as 
+its funds are held in several highly rated Canadian financial institutions.  
+ 
+The Company’s maximum exposure to credit risk related to certain financial instruments as identified 
+below, approximates the carrying value of these assets on the Company’s consolidated statements 
+of financial position.  
+ 
+ December  31, December 31,  
+  2024  2023 
+Cash and cash equivalents  $ 29,310,579  $ 58,944,459  
+Other receivables   82,896   237,086  
+Deposits   114,50 1  130,504  
+ $ 29,507,97 6 $ 59,312,049  
+ 
+c) Market Risks  
+ 
+Market risk is the risk of loss that may arise from changes in market factors such as interest rates, 
+foreign exchange rates, and equity prices.   
+ 
+i. Interest rate risk  
+ 
+The Company has significant cash balances and no interest -bearing debt. The Company’s 
+current policy is to invest excess cash in high -yield savings accounts  or other highly liquid 
+interest -bearing short -term investments.  The Company regularly monitors its cash 
+management policy.  
+ 
+ii. Foreign currency risk  
+ 
+The Company’s functional currency is the Canadian dollar. At  December 31 , 202 4, cash 
+balances were held primarily in Canadian and US dollars.  Foreign currency risk is the risk that 
+the value of the Company’s financial instruments denominated in foreign currencies will 
+fluctuate due to changes in foreign exchange rates. Changes in the exchange rate between 
+foreign currencies and the Canadian dollar could have a significant impact on the Company’s 
+financial position, results of operations, and cash flows.  
+ 
+The Company does not currently use derivative instruments to reduce its exposure to foreign 
+currency risk , however exchange rates are continually monitored for any significant changes . 
+A portion of the  Company’s exploration expenses are paid in USD , and over the past two 
+years the Company  converted  a portion of its CAD  cash balances into USD  to reduce its 
+currency risk exposure related to the CAD . 
+ Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 28 
+ The Company is mainly exposed to foreign currency risk on financial instruments (consisting 
+of trade payables) denominated in USD and MXP.   
+ 
+At December 31 , 202 4 and December 31, 20 23, the Company had the following foreign 
+currency denominated trade payables :  
+ 
+ December  31, December 31 , 
+  2024  2023 
+United States dollar  $ 3,798,895  $ 6,991,862  
+Mexican Peso   898,268   806,771  
+ $ 4,697,163  $ 7,798,633  
+ 
+It is estimated that a 10% fluctuation in the United States Dollar and Mexican Peso against 
+the Canadian Dollar would affect net loss at December 31 , 202 4 by approximately $469,716  
+(December  31, 20 23: $779,844 ). 
+ 
+iii. Price risk  
+ 
+The Company is exposed to price risk with respect to commodity prices and prices of equity 
+securities. Equity security price risk is defined as the potential adverse impact on the 
+Company’s net income or loss due to movements in individual prices of equity securities or 
+price movem ents in the stock market generally. Commodity price risk is defined as the 
+potential adverse impact on net income or loss and economic value due to commodity price 
+movement and volatilit y. The Company closely monitors commodity prices, particularly as 
+they  relate to base  and precious  metals, and movement s in the price of individual equity 
+securities , and  movements in the stock market generally, to assist in determin ing the 
+appropriate course of action to be taken by the Company.  
+ 
+21. SEGMENTED INFORMATION  
+Operating segments are components of an entity whose operating results are regularly reviewed by the 
+chief operating decision maker in deciding how to allocate resources and in assessing performance and 
+for which separate financial information is available . 
+ 
+The Company has one operating segment, which is involve d in the exploration and development of 
+polymetallic mineral deposits. All of the Company’s mineral properties are located in Mexico . 
+ 
+Segment performance is evaluated based on several operating and financial measures, including net 
+loss and total comprehensive  loss, which is measured consistently with net  loss and total comprehensive  
+loss in the  consolidated  financial statements . 
+ 
+  Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 29 
+ The net loss and total comprehensive loss are distributed by geographic region as follows:  
+ 
+ Years Ended  
+December 31 , 
+      2024  2023 
+Canada      $ (11,681,610)  $ (11,564,072)  
+Mexico       (11,908,974)   (2,839,248)  
+Total  comprehensive loss      $ (23,590,584)  $ (14,403,320)  
+ 
+22. RELATED PARTY TRANSACTIONS  
+a) Key management personnel  
+ 
+Key management personnel include those persons having authority and responsibility for planning, 
+directing, and controlling the activities of the Company as well as those personnel with responsibility 
+for the oversight of the Company’s activities. The Company has determined that key management 
+personnel consist of executive and non -executive members of the Company’s Board of Directors and 
+corporate officers.   
+ 
+Related party transactions for the years  ended December 31 , 202 4 and 20 23 are as follows:  
+   Years Ended December 31,  
+Transaction Type  Nature of Relationship   2024  2023 
+Non -cash share -based payments  Directors and officers    $ 4,446,035  $ 4,643,393  
+Salaries and benefits  Officers     2,846,115   3,602,335  
+Director fees  Directors     400,000   302,596  
+    $ 7,692,150  $ 8,548,324  
+ 
+A summary of amounts due to related parties:  
+ 
+  December 31,  December 31,  
+Transaction Type  Nature of Relationship    2024  2023 
+Salaries and benefits 
+payable  Directors, officers, and employees    $ 3,243,111  $ 1,103,245  
+    $ 3,243,111  $ 1,103,245  
+ 
+23. EVENTS AFTER THE REPORTING PERIOD  
+On January 27, 2025 it was announced that Discovery had entered into a definitive agreement (the 
+"Share Purchase Agreement") to indirectly acquire all of Newmont Corporation’s interest in the 
+Porcupine Complex (the “Transaction”) for a total consideration of USD $425 million. The consideration 
+payable to Newmont for the Transaction consists of USD $200 million in cash and USD $75 million 
+payable through the issuance of approximately 119.7 million common shares of Discovery, both of 
+which are payable upon closi ng of the Transaction, and USD $150 million of deferred consideration to 
+be paid in four annual cash payments of USD $37.5 million commencing on December 31, 2027.   
+ Discovery Silver Corp.  
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS  
+(Expressed in Canadian dollars, except where otherwise noted)  
+For the Years  Ended December 31 , 202 4 and 202 3 
+ 
+ 30 
+ To fund the Transaction and provide liquidity in support of operating and growing the Porcupine 
+Complex, Discovery has entered into binding commitments for approximately USD $555 million of 
+financing, including $400 million related to royalty and debt agreements with Franco Nevada 
+Corporation  (“Franco Nevada”) and approximately USD $155 million from a bought deal public offering 
+of subscription receipts  (the “Bought Deal ”). The Bought Deal closed on February 3, 2025  and pursuant 
+to the requirement of the Toro nto Stock Exchange  a special meeting will be held on March 27, 2025 to 
+obtain shareholder approval  (the “Special Meeting”) . 
+ 
+Pursuant to the Bought Deal, the Company issued an aggregate of 275,000,000 Subscription Receipts at 
+an issue price of C$0.90 per Subscription Receipt, for gross proceeds of C$247,500,000, which includes 
+25,000,000 Subscription Receipts issued pursuant to the exercise, in full, of t he over -allotment option 
+granted to the underwriters in connection with the Bought Deal. If the issuance of  119.7 million common 
+shares to Newmont  is not approved  by shareholders at the Special Meeting , Discovery will reduce this  
+number  and issue approximately 94.5 million common shares  to Newmont, and the first deferred cash 
+payment will be increased to approximately USD$53.3 million.  As part of the financing package with 
+Franco -Nevada, the Company issued 3,900,000 share purchase warrants, exercisable at $0.95 with a 3 -
+year expiry.  
+ 
+Prior to the closing of the Transaction, Porcupine will be transferred into a newly formed corporation, 
+Dome Mine Ltd. pursuant to an asset purchase agreement. On closing of the Transaction, all of the 
+issued and outstanding common shares of Dome Mine Ltd.  will be sold to Discovery pursuant to a share 
+purchase agreement. The Transaction is also subject to other customary conditions prior to the 
+expected close in the first half of 2025.  

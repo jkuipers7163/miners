@@ -1,0 +1,1694 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT’S DISCUSSIO N AND ANALYSIS  
+ 
+ 
+For the three and six months  ended  June 30 , 2025,  and 2024   
+ 
+August 11, 2025  
+ 
+ 
+ 
+ 
+ 
+  
+DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+2  MANAGEMENT’S DISCUSSION AND ANALYSIS  
+ 
+This Management’s Discussion and Analysis (“MD&A”)  should be read in conjunction with the unaudited 
+condensed interim consolidated financial statements , and their related notes,  of Discovery Silver  Corp. 
+(“Discovery Silver ” or “the Company” ), as at and for the three  and six  months ended June 30 , 2025 and 
+2024 (the “Interim Financial Statements”) which are prepared in accordance with International Financial 
+Reporting Standards as issued by the International Accounting Standards Board (“I FRS Accounting 
+Standards ”). Additional information relating to  the Company , including the most recent  Annual 
+Information Form (“AIF”) for the year ended December 31, 202 4, and the Company’s audited consolidated 
+financial statements for the year ended December 31, 202 4 (the “Consolidated Financial Statements”) , 
+are available on SEDAR + at www.sedarplus.ca .  
+ 
+All information contained in this MD&A is current and has been reviewed by management and approved 
+by the Board of Directors ( the “Board”) of the Company as of  August 11, 2025 , unless otherwise stated.  
+All dollar ($) amounts are  expressed in United States dollars  (“USD ”), the Company’s reporting currency, 
+except where otherwise noted. References to Canadian  dollars are denoted as (“ CAD ”).  
+ 
+FORWARD -LOOKING STATEMENTS  
+This MD&A  may  contain  forward -looking  statements  and should  be read  in conjunction  with  the risk 
+factors  described  in the “Financial Risk Factors”, “Other Risks and Uncertainties ” and “Forward  Looking  
+Statements”  sections  near the end of this MD&A  and as described  in the Company’s  AIF for the year  ended  
+December 31, 2024 . Additional information including this MD&A, Consolidated Financial 
+Statements for the year ended December 31, 2024, the Company’s AIF and press release have 
+been filed electronically under the Discovery Silver Corp. profile at www.sedarplus.ca  and are 
+posted on the Company’s website at www.discoverysilver.com .  
+  
+NON -GAAP MEASURES  
+Certain non -GAAP measures are included in this MD&A, among them: sustaining and growth capital 
+expenditures, free cash flow and free cash flow per share, operating cash costs and operating cash costs 
+per ounce sold , all-in sustaining costs (“AISC”) and AISC per ounce sold, average realized gold price per 
+ounce sold, adjusted net earnings and adjusted net earnings per share, earnings before interest, taxes and 
+depreciation and amortization (“EBITDA”) and working capit al. In the mining industry, these are com mon 
+performance measures but may not be comparable to similar measures presented by other issuers. The 
+Company believes that these measures, when considered in conjunction with information prepared in 
+accordance with GAAP , provide investors with useful information to assist in their evaluation of the 
+Company’s performance and ability to generate cash flow from its operations. Accordingly, these 
+measures are intended to provide additional information and should not be consi dered in isolation or as 
+a substitute for measures of performance prepared in accordance with IFRS. For further information, refer 
+to the “Non -GAAP  Measures” section of this MD&A.  
+ 
+In reporting operating cash costs per ounce sold and per ounce produced and AISC per ounce sold and 
+per ounce produced, the Company’s consolidated results include results  from the Hoyle Pond and Borden 
+operating mines, as well as corporate expenditures where applicable. Operating cash cost per ounce sold 
+and per ounce produced and AISC per ounce sold and per ounce produced f or the Pamour project are 
+reported separately while the project continues to ramp up towards commercial levels of production.   DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+3  The following additional abbreviations may be used throughout this MD&A: General and Administrative 
+Expenses (“G&A”); Troy Ounces (“oz”); Grams per Tonne (“g/t”); Square Kilometre (“km2”); and Life of 
+Mine (“LOM”). Throughout this MD&A the reporting periods for the three months ended June  30, 202 5, 
+and June 30, 2024 , are abbreviated as Q 2 2025 and Q 2 2024, respectively, while the reporting period s for 
+the six months ended June 30, 202 5, and June 30, 2024 , are abbreviated as YTD 2025 and YTD 2024, 
+respective ly. Additionally, the reporting period for the three months ended March 31, 2025,  is abbreviated 
+as Q1 2025.   
+ 
+COMPARATIVE INFORMATION  
+Discovery completed the acquisition  (the “Porcupine Acquisition” or the “Acquisition”)  of the Porcupine 
+Complex  (“Porcupine”  or the “Porcupine Operations ”) from Newmont Corporation (“Newmont”) on April 
+15, 202 5, which transformed  the Company into a Canadian gold produce r anchored in and near Timmins, 
+Ontario , Canada . Prior to the Porcupine Acquisition, the focus of Discovery’s business had primarily been 
+exploration and development activities related to the wholly owned Cordero silver project in Mexico. The 
+change to the Company’s business portfolio has a meaningful impact on the comparability of results in Q2 
+2025 , as well as in future quarters, to reporting periods prior to the Porcupine Acquisition.  
+ 
+Q2 2025 HIGHLIGHTS  
+ 
+• Discovery  completed the acquisition of the Porcupine Complex  on April 15 , 2025 , transform ing the 
+Company into a new Canadian gold producer  with two underground mines, a new open -pit mining 
+operation , a process plant  and growth potential at existing projects and exploration properties.  
+• Concurrent with the completion of the Porcupine Acquisition, Discovery closed a $575 .0 million  
+financing package  (the “Financing Package”) , which included  $475 .0 million  of royalty and equity 
+financing and a $100 .0 million senior debt facility  (the “Debt Facility”  or the “Franco -Nevada Debt 
+Facility” ), with the Debt Facilit y undrawn  as of June 30, 2025 . 
+• Key operating results for the period  from  April 16, 2025 , to June 30, 2025 , included:  
+o Gold production of 50,552 ounces , with total gold sold of 42, 550 ounces   
+o Total production costs of $ 54.9  million  
+o Operating  cash  costs1 of $1, 334 per ounce sold  
+o AISC1 of $2,123 per ounce sol d 
+o Site-level AISC2 of $1, 872 per ounce sold  
+o Gold production, sales and unit costs impacted by two -week scheduled mill shutdown from 
+April 26th to May 10th. 
+• Net earnings totale d $5.5 m illion, or  $0.01  per share, while adjusted net earnings1 totaled  $28.4 
+million, or  $0.04 per share.   
+• Net c ash flow from operating activities totaled $ 67.1  million, with free cash flow1 of $27.3 million.  
+• Cash at June 30 , 2025 , totaled $252. 5 millio n, with an additional $100 million of liquidity from the 
+undrawn Debt Facility.  
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, NON -GAAP MEASURES, for more information.  
+(2) Site-level AISC excludes c orporate G&A expense, share -based compensation costs  and corporate -level sustaining capital expenditures .   DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+4  BUSINESS  OVERVIEW   
+ 
+The Company was incorporated on October 10, 1986,  under the laws of British Columbia as Ayubowan 
+Capital Ltd.  On June 13, 2017, the Company’s name was changed to Discovery Metals Corp. On April 14, 
+2021, the Company’s name was changed to Discovery Silver Corp. The Company ’s Common Shares are 
+listed on the Toronto Stock Exchange (“TSX”) under the symbol “DSV”, on the OTCQX under the symbol 
+“DSVSF”, and on the Frankfurt Stock Exchange under the symbol “1CU0”.  
+ 
+Discovery is a growing precious metals producer with assets in Canada and Mexico. The Company is 
+principally engaged in the exploration , development and operation of mineral properties  that have 
+demonstrated potential for profitable operations and for generating attractive returns for all 
+stakeholders. Discovery’s first asset is the  100% -owned Cordero silver development -stage project 
+(“Cordero” or the “Project ”) located on a prolific mining belt i n Chihuahua State, Mexico. A feasibility 
+study (“FS”)  dated February 16, 2024,  clearly demonstrated the potential for Cordero to be developed 
+into one of t he largest silver mines globally, with low unit costs that is capable of generating attractive 
+economic returns.  Since release of the FS, work at Cordero has focused on continuing to de -risk the 
+project, and to advance the permitting process, with Cordero ’s Environmental Impact Statement 
+(“Manifesto de Impacto Ambiental” or “MIA”)  currently being reviewed by the Mexican Government’s 
+department of natural resources and environment (“ Secretaría de Medio Ambiente y Recursos Naturales ” 
+or “SEMARNAT” ). 
+ 
+On April 1 5, 2025, the Company completed the acquisition of the Porcupine Complex. The Acquisition 
+establishes Discover y as a new Canadian -based gold producer, with multiple operations, a large base of 
+Mineral Resources and substantial potential for growth  in one of the world’s most prolific gold camps. 
+With the closing of the Acquisition, the Company commenced reporting  gold production, and related 
+costs, from the Porcupine Operations in Q2 2025 .  
+ 
+A key component of Discovery ’s business is its commitment to achieving excellence in all aspects of 
+responsible mining . Consi stent with this commitment,  the Company has been honoured with numerous 
+awards in Mexico, including: receiving both the Socially Responsible Enterprise distinction from the 
+Mexican Center for Philanthropy (“CEMEFI”) and the  international  Great Place to Work Certification for 
+the third consecutive year in 2024 ; receiving CEMEFI’s Best Environmental Practices distinction f or the 
+first time 2024; and being awarded the two -year Quality Environmental Certification from Mexico’s 
+Federal Attorney’s Office for Environmental Protection or “PROFEPA”  in November 2023. The Company 
+also supports energy transition, with plans to increase the use of electric vehicles and other equipment at 
+Porcupine, and the ongoing evaluation of using solar energy, battery electric, trolley assist and other 
+alternative e nergy systems in the development and operation of Cordero.  
+ 
+PORCUPINE ACQUISITION  
+ 
+On April 1 5, 2025, Discovery completed the acquisition of the Porcupine Complex. Under terms of the 
+share purchase agreement ( the “Agreement”) between Discovery and Newmont, announced on January 
+27, 2025, consideration paid to Newmont at closing included  $200 .0 million of cash (“Cash Consideration”) 
+and 119.7 million Discovery common share s (“Equity Consideration”).  In addition,  the Agreement also DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+5  included deferred consideration  (“Deferred Consideration”)  of $150 .0 million, to be paid to Newmont  in 
+four annual cash payments of $37 .5 million  commencing on December 31, 2027.   
+ 
+To fund the Acquisition  and provide liquidity in support of operating and growing the Porcupine 
+Operations , Discovery completed the  $575.0 million  Financing Package , which included  $400 .0 million  
+related to royalty and debt agreements with Franco -Nevada Corporation (“Franco -Nevada ”), and 
+approximately $ 175.0 million  of gross proceeds from a bought deal public offering of subscription receipts 
+(the “ Public Offering”), which closed on February 3, 2025.  
+ 
+Included in the $400 .0 million  from  Franco -Nevada  are $2 00.0 million  related to a 2.25% LOM  net smelter 
+return (“NSR”) royalty , and $100 .0 million  from a 2.00% NSR r oyalty -linked note (collectively, the “Franco -
+Nevada Royalties”). The 2.00% NSR royalty -linked note will be extinguished upon the earlier of royalty 
+payments being made equal to the equivalent of 72,000 ounces of gold, or Discovery making a one -time 
+early cash payment to Franco -Nevada, at Discovery’s sole option, equal to a 12% annual internal rate of 
+return . Also included in the $400.0 million  of financing from Franco -Nevada was the $100.0 million  Debt 
+Facility . Under terms of the Debt Facility , the Company issued to Franco -Nevada 3.9 million  share 
+purchase warrants, exercisable at CAD$0.95 with a three -year expiry. The Debt Facility remained undrawn 
+as of the date of this MD&A. Additional d etails of the Financing Package are provided in the press release 
+entitled, “Discovery Announces Transformational Acquisition of Newmont’s Porcupine Complex,” issued  
+on January  27, 2025  and filed on the Company’s profile on SEDAR+.  
+ 
+Pursuant to the terms of the  Public Offering , the Company issued an aggregate of 275 .0 million  
+Subscription Receipts at an issue price of C AD$0.90 per Subscription Receipt, for gross proceeds of 
+CAD $247 .5 million (approximately $175.0 million) , which included 25 .0 million  Subscription Receipts 
+issued pursuant to the exercise, in full, of the over -allotment option granted to the underwriters of the 
+Public Offering . Upon  closing of the Porcupine Acquisition , the 275.0 million common shares of Discovery 
+were issued in exchange for the Sub scription Receipts on a one -for-one basis.  The Subscription Receipts 
+were delisted at the close of business on April 16, 2025.  
+  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+6  OPERATING AND FINANCIAL PERFORMANCE SUMMARY  
+ 
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+  2025   2024   2025   2025   2025  
+Revenue  $ 142,010  $ - $ - $ 142,010  $ - 
+Production costs  $ 54,919   -  -  54,919   - 
+Earnings before income taxes  $ 24,510   (5,138)   (6,45 2) $ 18,058  $ (5,643)  
+Net earnings  $ 5,534  $ (5,138)  $ (6,45 2) $ (918)  $ (5,643)  
+Basic earnings per share  $ 0.01  $ (0.01)  $ (0.02)  $ (0.00)  $ (0.01)  
+Diluted earnings per share  $ 0.01  $ (0.01)  $ (0.02)  $ (0.00)  $ (0.01)  
+Cash flow from operating activities  $ 67,08 1 $ (8,543)  $ (6,075) $ 61,00 5 $ (11,014)  
+Cash investment on mine development and PPE  $ (39,766)  $ (2,141)  $ (3,767 ) $ (43,533)  $ (5,448 ) 
+ 
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+  2025   2024   2025   2025   2025  
+Tonnes milled   508,791   -  -  508,791   - 
+Average Grade (g/t Au)   3.39   -  -  3.39   - 
+Recovery (%)   91.3%   -  -  91.3%   - 
+Gold produced (oz)    50,552   -  -   50,552   - 
+Gold sold (oz)    42,550   -  -   42,550   - 
+Average realized price ($/oz sold)(1) $  3,337  $ - $ - $  3,337  $ - 
+Operating cash costs /ounce sold ($/oz)(1)(2) $  1,334  $ - $ - $  1,334 $ - 
+AISC /ounce sold ($/oz)(1)(2)(3) $  2,123 $ - $ - $  2,123   $ - 
+Adjusted net earnings(1)  $ 28,434  $ (2,107)  $ (3,046)  $ 25,388  $ (4,078)  
+Adjusted net earnings per share(1)  $ 0.04  $ (0.01)  $ (0.01)  $ 0.04  $ (0.01)  
+Free cash flow(1)  $  27,31 4  $ (10,684)  $ (9,84 2) $  17,47 2  $ (16,462) 
+(1) Example of Non -GAAP  measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+(2) Consolidated operating cash costs per ounce sold and AISC per ounce sold  include results from the Hoyle Pond and Borden operating mines, 
+as well as corporate expenditures where applicable. They do not include operating costs, capital expenditures, or gold ounces  sold from 
+Pamour, which is a capital project that continues to ram p up towards commercial levels of production.  
+(3) YTD 2025 results e xclude G&A expense, share -based compensation costs and sustaining capital expenditures and lease expense incurred 
+prior to the April 15, 2025, the completion date of the Porcupine Acquisition.  
+   
+Q2 2025   
+Gold production  for the 76-day period , from April 16, 2025,  to June 30, 2025 , totaled 50,552 ounces, which 
+resulted from processing 508,791 tonnes at an average grade of 3.39 g/t with average recoveries of 91.3%.  
+The 50,552 ounces of gold production was comprised of 16,112 ounces from Hoyle Pond, 27,286 ounce s 
+from Borden, for a total of 43,398 ounces from operating mines, and an additional 7,154 ounces from 
+Pamour. Gold sales totaled 42,550 ounces, including 14,804 ounces from Hoyle Pond, 21,792 ounces from 
+Borden, for total gold sold from operating mines of 3 6,596 ounces, with an additional 5,954 ounces from 
+Pamour. The difference between gold sold and gold produced during Q2 2025 mainly reflected timing 
+differenc es between gold production and the recognition of gold sales.  
+ 
+Production costs totaled $ 54.9 million. Operating cash costs1 for the operating mines averaged $ 1,334 per 
+ounce sold , which reflected production costs , royalty payments, an adjustment for transition services 
+agreement (“TSA”) costs related to the Porcupine Acquisition  divided by  gold ounces sold and gold ounces DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+7  produced, respectively.   AISC1 averaged $ 2,123  per ounce sold , comprised of operating cash costs per 
+ounce sold, $ 16.1 million ($ 441 per ounce sold) of sustaining capital expenditures, as well as the impact 
+of corporate G&A expense, share -based compensation costs  and accretion and amortization costs related 
+to site closure obligations.  
+ 
+Revenue  in Q2 2025 totaled $ 142.0  million, representing Discovery’s first quarter of revenue recognition. 
+The $ 142. 0 million of revenue resulted from  total gold sales of 42,550  ounces and an average realized 
+gold price1 of $3,337  per ounce sold.   
+ 
+EBITDA1,2 in Q2 2025 totaled  $55.2 million compared to a loss before interest, taxes and depreciation and 
+amortization of $5.1 million and $6.3 million in Q2 2024 and Q1 2025, respectively. The $55.2 million of 
+EBITDA represented earnings prior to the impact of $16. 4 million of depreciation and amortization 
+expense , $14.3  million of net finance costs  and $19.0 million of income tax expense in Q2 2025 . The 
+significant improvement in EBITDA performance resulted from revenue and earnings generated from gold 
+sales following completion of the Porcupine Acquisition on April 15, 2025.  
+ 
+Net earnings for Q2 2025 to taled $5.5  million,  which compared to a net loss of $ 5.1 million in Q2 2024 
+and a net loss of $6.5 million  in Q1 2025. The favourable impact of revenue from gold sales, and earnings 
+from mining operations  of $68.8 million , more than offset higher G&A  expenses, share -based 
+compensation costs and the impact of foreign exchanges losses in accounting for the significant 
+improvement in earnings performance compared to both prior periods  when the Company had no 
+producing assets . 
+ 
+Earnings per basic share outstanding totaled  $0.01 in Q2 2025 compared to loss per basic share 
+outstanding of $0.01 in Q2 2024 and $0.02 per share the previous quarter. Average basic shares 
+outstanding in Q2 2025 were 735.6 million versus 397.6 million in Q2 2024 and 401.1 million in Q1 2025, 
+with the increase reflecting the issuance of 401.8 million shares during Q2 2025, mainly the 275.0 million 
+shares issued through the  Public Offering and the 119.7 million shares issued to Newmont as Equity 
+Consideratio n for the Porcupine Acquisition.   
+ 
+Adjusted  net earnings1 and adjusted  net earnings  per basic share1 in Q2 2025  totaled  $28.4 million, or  
+$0.04 per basic share, which compared to adjusted net loss of  $2.1 million, or $0.01 per basic  share, in Q2 
+2024 and adjusted net loss of $3.0 million, o r $0.01  per basic share, in the previous quarter. The difference 
+between net earnings and adjusted  net earnings in Q2 2025 related to the exclusion from adjusted net 
+earnings of  the after -tax impact of $16.6 million of business development costs, mainly for legal, 
+consulting and advisory services, and other expenses related to the Porcupine Acquisition,  $6.8  million of 
+foreign exchange losses  and $2.4 million of one-time TSA costs.  
+ 
+Net cash provided by operating activities in Q2 2025 totaled  $67.1 m illion , mainly reflecting the favourable 
+impact of revenue from gold production on both earnings and cash flows. Free cash flow1 in Q2 2025 
+totaled $ 27.3 million as net cash generated from operations activities exceeded total capital expenditures 
+during the quarter.  
+ 
+Total capital expenditures1 in Q2 2025 totaled $44.2  million, comprised of $ 16.1  million of sustaining 
+capital expenditures1 and $ 28.1 million of growth  capital  expenditures1. Sustaining capital expenditures 
+were largely focused on  capital development at Hoyle Pond and Borden and construction work to raise DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+8  and butt ress the No. 6 tailings management  area (“ TMA ”) at the Dome  property . Growth capital 
+expenditures1 mainly related to  pre-stripping at Pamour  and longer -term investment s at the TMA.  
+ 
+Cash at June 30, 20 25, totaled $ 252.5 million  compared to $20.4 million  at December  31, 202 4. The 
+Company’s cash position at June 30, 2025 reflected net proceeds received from  the Financing Package , as 
+well as the $ 67.1  million of net cash from operating activities, partially offset by the Cash Consideration 
+paid for the Porcupine  Acqu isition  at closing,  capital expenditures during Q2 2025,  as well as the impact 
+of $51.6  million of restricted cash related to  letter s of credit and cash collateral for government required 
+financial assurances  involving  closure plans at the Porcupine Complex.  The Company also had $100.0 
+million of additional liquidity at June 30, 2025, related to the undrawn Debt Facility.  
+ 
+YTD 2025  
+Discovery did not generate revenue  or earnings from mine operations in Q1 2025 or YTD 2024.  
+ 
+EBITDA1,2 for YTD 2025 totaled  $48.9 million versus a loss before interest, taxes and depreciation and 
+amortization of $ 5.6 million in YTD 2024. Earnings generated following the closing of the Porcupine 
+Acquisition in Q2 2025 mainly accounted for the significant improvement in EBITDA year -over -year 
+performance in YTD 2025.  
+ 
+Net loss for YTD 2025  totaled  $0.9 m illion , or $0.00 per basic share , with  net earnings in Q2 2025 being 
+offset by a net loss  of $6.5 million, or $0.02 per basic share,  in Q1 2025,  with the previous quarter’s net 
+loss mainly due to the impact of G&A expense and share -based compensation costs during the first three 
+months of the year. YTD 2025 net earnings compared to a net loss of $5.6 million, or $0.01 per basic share , 
+in YTD 2024,  with G&A , share -based compensation costs and foreign exchange losses mainly accounting 
+for the loss in the first half of 2024. Average basic shares outstanding in YTD 2025  were 569.3 million 
+shares versus 396.8 million shares for the same period a year ear lier.  
+ 
+Adjusted  net earnings1 and adjusted  net earnings per share1 were $25.4 million and  $0.04 per basic share,  
+respectively,  which compared to adjusted  net loss and adjusted  net loss per basic share of $4.1 million 
+and $0.01 per share , respectively, in YTD 2024. The  difference between net earnings and adjusted net 
+earnings in YTD 2025 mainly reflect ed the exclusion from adjusted net earnings of the after -tax impact of 
+$20.2 million of business development expenses  related to the Porcupine Acquisition,  $6.7 million of  
+foreign exchange losses , as well as  $2.4 related to one -time TSA costs.  
+ 
+Net cash provided by operating activities in YTD 2025 totaled  $61.0 million, while f ree cash flow1 totaled 
+$17.5  million.   
+ 
+Total capital expenditures1 for YTD 2025 totaled $ 48.1  million,  including $16.2  million of sustaining capital 
+expenditure s1, $31.1  million of growth capital expenditures1 and $0. 8 million related to financial leases . 
+Sustaining capital expenditures were incurred during Q2 2025 following the completion of the Porcupine 
+Acquisition. Of growth capital expenditures in YTD 2025, $2 6.9 million related to Porcupine, with $ 4.2 
+million related t o Cordero, largely for land acquisition during Q1 2025.  
+ 
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+(2) Refers to earnings before interest, taxes and depreciation and amortization.  
+  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+9  PORCUPINE OPERATIONS REVIEW  
+ 
+Discovery’s  Porcupine Operations cover approximately 1,400 km2 in and near Timmins, Ontario . Porcupine 
+consists of the Hoyle Pond, Pamour and Hollinger mine properties, the Dome mine property and milling 
+facility, and numerous near -mine and regional exploration targets. The Complex also includes the Borden 
+mine property  and large  land position near Chapleau, Ontario. Current operations include the Hoyle Pond 
+and Borden underground mines , with the Pamour open -pit project currently ramping up towards 
+commerci al levels of production. All mineralization from the operating mines , and Pamour,  is processed  
+at Dome, including mineralization from Borden, which is trucked 190 km to the Dome Mill.  
+ 
+DOME MILL  
+The curren t Dome Mill  was commissioned in 1988, with expansion projects being completed in 1995 and 
+2004.  The mill consists of three -stage crushing , two parallel rod mill and ball mill circuits , a single leach 
+and Carbon -in-Pulp circuit, followed by a carbon strip and electrowinning circuit. The Mill’s nameplate  
+operating capacity is approximately 12,000 tonnes per day  (approximately 4.3 million tonnes per annum) . 
+In recent years, the mill has operated at rates well below capacity levels, largely reflecting increased 
+maintenance requirements which contributed to reduced availability and utilization rates , as well as 
+production shortfalls from mining operations.  Through investment programs launche d following the 
+closing of the Porcupine Acquisition, the Company is targeting a return to full capacity operations by 2028 
+or sooner.   
+ Three months ended  
+Dome Mill  June 30, 2025  
+Total material  milled (t)   508,791  
+Average Grade (g/ t Au)  3.39  
+Recovery (%)   91.3% 
+Gold produced (oz)1  50,552  
+Gold poured (oz)1  46,608  
+Gold sold (oz)1   42,550   
+Milling operating costs ($ Millions)  $ 12,861  
+Operating costs per tonne processed ($/tonne)  $ 25.4  
+(1) Includes gold production, poured and sold from Hoyle Pond, Borden and Pamour.  
+ 
+For the period April 16 , 2025,  to June 3 0, 2025 , a total of 508,791  tonnes were processed at Dome Mill at 
+an average grade of 3. 39 g/t, with recovery rates averaging 91.3% . A total of 50,552 ounces of gold were 
+produced over this period , with total gold poured of 46,608 ounces . Availability rates at the Dome Mill 
+during Q2 2025 were impacted by a scheduled  two-week maintenance shutdown , planned by the prior 
+owner,  for the purpose of replacing equipment in the thickening tank . The Company used the occasion of 
+the shutdown to advance multiple other projects, primarily in the crushing, grinding and carbon handling 
+circuits.  Based on operating days during Q2 2025, mill throughput averaged approximately 8,500  tonnes 
+per day.  Mill o perating costs during Q2 2025 totaled $12.9 million for an average  of $25.4 per tonne 
+processed.  These costs are allocated to the mine operations based on a proport ion of total tonnes 
+processed basis.   
+ 
+For the purpose of segment reporting, capital expenditures1 for Dome Mill and the TMA are allocated to 
+Hoyle Pond, Borden and Pamour based on a proportion of total tonnes processed basis.  Capital 
+expenditures allocated during Q2 2025 totaled $16.5 million. The majority of these capital expenditures DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+10  related to the TMA, with work during the quarter largely focused on  raising and buttressing the existing 
+dam walls  and constructing seepage collection systems.  
+ 
+HOYLE POND  
+Hoyle Pond Mine is an underground gold min ing operation  located within the Archean Abitibi Greenstone 
+Belt approximately 20 km northeast of downtown Timmins, Ontario. Underground infrastructure includes 
+two decline ramps , an 815-metre four -compartment shaft  (“#1 Shaft ”) and a 1,350 metre  winze (the “#2 
+Winze ”) with the deepest station being on the 1600 -metre level . Underground production is trucked  to 
+the #2 Winze and is then hoisted to t he 720 level, where it is sent by tram  to the loading pocket of the #1 
+Shaft.  Mineralization  is then trucked approximately 17 km to Dome Mill. The mine began operations in 
+1985 and, since that time, has produced over 4.0 million ounces of gold.  
+ Three months ended  
+Hoyle Pond   June 30, 2025  
+Total material  milled (t)   97,817  
+Average Grade (g/ t Au)  5.50 
+Gold Contained (oz)   17,297  
+Recovery (%)   93.1%  
+Gold produced (oz)   16,112  
+Gold sold (oz)    14,804  
+Development metres – operating    526  
+Development metres – capital    180  
+Production costs  $  20,870  
+Operating cash costs per ounce sold1 $  1,566  
+AISC per ounce sold1 $  2,036   
+Total capital expenditures1 (in thousands)  $  7,59 7  
+(1) Example of Non -GAAP  measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+ 
+Gold production at Hoyle Pond from April 16, 2025,  to June 30, 2025,  totaled 16,112 ounces, which 
+resulted from 97,817 tonnes being processed at an average grade of 5.5 0 g/t and average recoveries of 
+93.1%. Production during the quarter was primar ily from the Lower S Zone on the 1965  and 1985  levels. 
+A total of 45,160 tonnes were mined from April 16, 2025 , to the end of Q2 2025, for an average mining 
+rate of  594 tonnes per day. During Q2 2025, 5 2,657  tonnes of stockpile d material from Hoyle Pond were  
+milled , which resulted in higher  than  planned  tonnes milled for the quarter and a lower than expected  
+average  grade. The Company does not anticipate processing  significant amounts of low-grade stockpiles 
+from Hoyle Pond during the second half of 2025.  
+ 
+Operating development metres during Q2 2025 w ere mainly focused on the main production areas in the 
+Lower S Zone, as well as in  areas of  the Upper  Mine, where  production from narrow, high -grade veins is 
+expected to commence during the second half of 2025. Capital development activities during the quarter 
+mainly involved continuing to extend the main ramp to depth in the Lower S Zone . 
+ 
+Production costs , including mining and processing costs,  in Q2 2025 totaled $20.9  million , with operating  
+cash  costs1 averaging $ 1,566 per ounce sold . AISC1 for the quarter a veraged $ 2,036 per ounce sold , which 
+included $5.7 million of sustaining capital expenditures1, mainly related to  capital development  activities 
+as well as Hoyle Pond’s allocation of capital expenditures1 related to the TMA.   
+ 
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+11  BORDEN  
+Borden Mine  is a ramp access underground mine located on a 1,000 km2 land position approximately 20 
+km east of Chapleau , Ontario . The deposit  mine  is located within the lower limb of an antiform in the 
+Borden Lake Greenstone Belt.  Production at Borden commenced in 2019 and, to date, approximately 
+600,000 ounces have been produced. Mining is carried out at Borden using the longhole stoping method 
+with unconsolidated as well as cemented rock fill. Material is trucked from underground to surface and  
+then  from the mine site approximately 190 km to the Dome Mill.  
+ Three months ended  
+Borden  June 30 , 2025  
+Total material  milled (t)   166,609  
+Average Grade (g/t Au)    5.62  
+Gold Contained (oz)    30,118  
+Recovery (%)   90.6%  
+Gold produced (oz)    27,286  
+Gold sold (oz)    21,792  
+Development metres – operating    449  
+Development metres – capital    204  
+Production costs  $  22,038   
+Operating cash costs per ounce sold1 $  1,175  
+AISC per ounce sold1 $  1,621  
+Total capital expenditures1 (in thousands)  $  11,697  
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+ 
+Gold production at Borden from April 16, 2025,  to June 30, 2025,  totaled 27,286 ounces, which resulted 
+from 166,609  tonnes being processed at an average grade of 5. 62 g/t and average recoveries of 9 0.6%. 
+Production during Q2 2025  was mainly in the West and Central zones . A total of  123,743  tonnes of 
+mineralization  were mined from April 16, 2025,  to the end of Q2 2025, for an average mining rate of  1,628  
+tonnes per day. Mining rates are expected to increase in the second half of 2025 as investments in new 
+trucks and other equipment results in improved availability and ut ilization rates.  
+ 
+Operating development during the quarter was mainly focused on the West, Central and Upper East 
+Zones, with capital development metres primarily related to the continued advancement of the  main 
+ramp and  the exploration drift  on the 575 level .  
+ 
+Production costs in Q2 2025 totaled $ 22.0 million, with operating cash costs1 per ounce averaging $ 1,175 
+per ounce sold . AISC1 averaged $ 1,621 per ounce  sold for the quarte r. Sustaining capital expenditures1 
+totaled $ 9.0 million, with capital development  accounting for $ 5.7 million  and the remainder related to 
+allocated TMA expenditures, as well as investments in infrastructure, including a n upgrade of the slurry 
+plant, and new equipment  to optimize the mining fleet.  
+ 
+PAMOUR  
+Pamour mine, located approximately 20 km from downtown Timmins, first commenced underground 
+mining in 1911 and was operated until 1996. Open -pit mining operations were initiated in 2006 and 
+ceased in 2011. The project to re -develop and expand the Pamour open pit, and resume  operations , 
+commenced in 2023, with initial production achieved early in 2025  and project continuing to ramp up 
+towards commercial  production  levels .  
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+12  Gold production at Pamour from April 16, 2025,  to June 30, 2025,  totaled 7,154 ounces, which resulted 
+from 244,366 tonnes being processed at an average grade of 1.0 2 g/t and average recoveries of 89.7%. 
+Significant pre -stripping continued during Q2 2025 as the mine continued development towards full 
+production. A total of 104,000 tonnes of mineralization  and 2.7 million  tonnes of waste w ere mined from 
+April 16, 2025,  to June 30, 2025 .  Mill feed during Q2 2025 was mainly from Bench 19 of the Phase 1 Open 
+Pit, with production from Bench 13 commencing late in the quarter.  Mill feed from Pamour is expected 
+to increase significantly in the second half of 2025 , with the strip ratio expected to  average below 10:1 
+during the final quarter of the year. In addition to mine production, 132,000 tonnes w ere processed from 
+stockpiles in Q2 2025 at an average grade of 1.10  g/t for 4,650 ounces. The stockpiles processed included 
+material from both Pamour as well as from the Hollinger open pit, where mining ceased late in 2024.  
+ 
+Production costs in Q2 2025 totaled $ 12.0 million . Operating cash costs1 averag ed $2,051 per ounce sold , 
+while  AISC1 averaged $ 2,194  per ounce sold . All capital expenditures1 at Pamour in Q2 2025 were growth 
+capital expenditures1 and related mainl y to pre -stripping and allocated TMA capital expenditures.  
+ 
+(1) Example of Non -GAAP measure. See the section in this MD&A  entitled, “NON -GAAP MEASURES” for more information.  
+ 
+CORDERO OVERVIEW  
+ 
+The Cordero Project was acquired by Discovery in 2019.  Since that time, the Company has invested over 
+$100.0 million in Mexico, conducting significant exploration drilling and technical analysis, leading to the 
+release of multiple studies, most recently the FS dated February 16 , 2024 and filed on SEDAR+ 
+(www.sedarplus.ca ) on March 28, 2024. The results of the FS confirmed Cordero to be one of the world’s 
+largest undeveloped silver deposits, with the potential for large -scale production at low unit costs and 
+that is capable of generating substantial free cash flow and attr active economic returns.  
+ 
+Key highlights of the FS include:  
+• Average annual production of 37 .0 million silver equivalent ounces (“AgEq”) over the first 1 2 years 
+with a total project life of 19 years;  
+• All-in sustaining costs1 averaging below $12.50 per AgEq ounce in Years 1 – 8; 
+• Base -case after -tax net present value (“NPV”) of $1.2 billion (Base -case metal prices: Silver – 
+$22.00 per ounce; Gold  – $1,600 per ounce; Zinc – $1.20 per ounce; Lead – $1.00 per ounce);   Three months ended  
+Pamour         June 30 , 2025  
+Total material  milled (t)   244,366  
+Average Grade (g/t Au)    1.02  
+Gold Contained (oz)    7,976  
+Recovery (%)   89.7%  
+Gold produced (oz)    7,154  
+Gold sold (oz)    5,954  
+Production costs  $  12,011  
+Operating cash costs per ounce sold1 $  2,051   
+AISC per ounce sold1 $  2,194   
+Total capital expenditures1 (in thousands)  $  22,338  
+(1) Example of Non -GAAP  measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+13  • Initial capital expenditures1 of $606 .0 million  (resulting in a NPV to capital ratio of 2:1);  
+• Large -scale Mineral Reserve totaling 302 .0 million  ounces of silver, 840,000 ounces of gold, 5.2 
+billion pounds of zin c and 3.0 billion pounds of lead;  
+• Important socio -economic contribution to Mexico, including an initial investment of over $600 
+million, the creation of 2,500 jobs during development, and over 1,000 jobs during operations, 
+$4.0 billion in total procurement, all to remain within Mexico, and , assuming a fixed $35.00 per 
+ounce silver  price , total tax contributions within Mexico of $2.4 billion over the project life ; and,   
+• High levels of environment al responsibility and a commitment to contributing to the management 
+of key social issues such as carbon reduction and water quality and availability.  
+ 
+Second Quarter  2025 Highlights  
+During Q2 2025, Discovery continued work o n key initiatives to further de -risk the project , including:  
+• Assessing the potential to use natural gas power sources versus the grid power supply;  
+• Advancing geotechnical and other work related to the planned upgrade of the local water 
+treatment plant;  and,  
+• Evaluating the potential to establish solar farms around the project site to contribute to the power 
+supply required for mine development and operation.  
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+ 
+OUTLOOK  
+ 
+With the closing of the Porcupine Acquisition on April 15, 2025, Discovery was transformed into a 
+diversified North American -focused precious metals producer combining growing gold production in 
+Northern Ontario, Canada, with one of the world’s largest silver development projects in Chihuahua State, 
+Mexico. In Q2 2025, the Company commenced reporting  gold production from the Hoyle Pond and Borden 
+underground mines, as well as from the ramp up of gold production at the Pamour open -pit project.  
+ 
+Key priorities for the Porcupine Operations over the balance of 2025 include:  
+• Implementing investment plans aimed at growing mining rates , increasing production levels and 
+lowering unit costs at Hoyle Pond  and Borden ; 
+• Ensuring the successful ramp up of production at Pamou r; 
+• Advancing  studies on the TVZ zone , Dome Mine project  and Dome Mill expansion ; and,  
+• Advancing numerous exploration opportunities at each of  site, as well as at  regional targets . 
+ 
+The Company is targeting a total of 1 40,000 metres of drilling in 2025. The goals for the drilling program 
+include resource conversion at Hoyle Pond, Borden and Pamour, in support of establishing an initial 
+reserve statement for the three mines during 2026. In addition, drilling will also targ et resource 
+conversion at the Dome Mine as part of a study to update the Inferred Mineral Resource included in the 
+technical report filed on SEDAR+ on January 28, 2025 , entitled, “Porcupine Complex, Ontario, Canada, 
+Technical Report on Preliminary Economic Assessment.” The Company is also planning a drill program at  
+the TVZ Zone  with a goal of releasing an initial mineral resource in the first half of 2026.  
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+14  As of the date of this MD&A, the Company is well capitalized to fund growth and optimization plans for 
+Porcupine and current expenditure plans at Cordero with total cash  of approximately $279.0 millio n. 
+ 
+In Mexico, f ollowing release of the  Cordero  FS, the Company  has conducted a limited work program aimed 
+at further advancing and de -risking the Project , with key areas of focus being power, water availability 
+and management, permitting, and continuation of ESG and community outreach programs.  
+ 
+Following  the completion of the land acquisition program in March 2025, the next major milestone for 
+the Cordero will be approval of the Company’s Environmental Impact Assessment  or MIA  by SEMARNAT, 
+which was submitted in August 2023. The MIA passed SEMARNAT’s legal review soon after its submission 
+and was advanced for technical review. As of the date of this MD&A, the Company had completed the 
+technical review process and was awaiting approval of the MIA.  The Company remains confident that 
+Cordero will receive MIA approval.  
+ 
+REVIEW OF  FINANCIAL PERFORMANCE  
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+  2025   2024   2025   2025   2025  
+Revenue  $ 142,010  $ - $ - $ 142,010  $ - 
+           
+Production costs    54,919   -  -  54.919   - 
+Depletion and amortization   16,384   -  -  16,384   - 
+Royalties   1,916   -  -  1,916   - 
+Earnings from mining operations   68,791   -  -  68,791   - 
+           
+Expenses            
+General and administration   22,877   1,827   5,47 4  28,351   3,641  
+Exploration   830  103  25  855  217 
+Share -based compensation   1,953   692  1,167   3,120   1,346  
+Earnings (loss) from operations   43,131   (2,622)   (6,66 6)  36,465   (5,204)  
+           
+Other            
+Other income (loss)   (6,879)   (3,012)   189  (6,690)   (1,451)  
+Finance Items            
+Finance income ( expense ), net   (11,742)   496  25  (11,717)   1,012  
+Earnings (loss) before taxes   24,510   (5,138)   (6,45 2)  18,058   (5,643)  
+Income taxes expense (recovery)   18,976   -  -  18,976   - 
+Net earnings (loss)  $ 5,534  $ (5,138)  $ (6,45 2) $ (918)  $ (5,643)  
+           
+Basic earnings per share  $ 0.01  $ (0.01)  $ (0.02)  $ (0.00)  $ (0.01)  
+Diluted earnings per share  $ 0.01  $ (0.01)  $ (0.02)  $ (0.00)  $ (0.01)  
+           
+Weighted average number of common 
+share s outstanding  (in 000’s)            
+Basic   735,616   397,570   401,122   569,293   396,771  
+Diluted   762, 923  397,570   411,049   596, 600  396,771  
+ 
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+15  EARNINGS  
+ 
+Revenue  
+Discovery reported revenue for the first time in Q2 2025. Revenue for the quarter totaled 142.0  million, 
+which resulted from 42,550 ounces of gold sold at an average realized price1 of $3,337 per ounce  sold. 
+The 42,550 ounces of gold sales in Q2 2025 w ere comprised of 21,792  ounces sold from production at 
+Borden, 1 4,804 ounces sold from Hoyle Pond and 5,954  ounces sold from Pamour.    
+ 
+Earnings from Mining Operations  
+Earnings from mine operations in Q2 2025 totaled  $68.8 million , reflecting revenue from gold sales 
+reduced by production costs of $ 54.9 million, depreciation and depletion expense of $ 16.4 million and 
+royalty expense  totaling $1.9  million.  
+ 
+Depreciation and depletion expense resulted from the addition of $ 876.8  million of mineral properties, 
+plant and equipment to non -current assets, including $ 562.9  million of depletable mining interests and 
+$313.9 million of plant and equipment assets. Depreciation is mainly recorded on a straight -line basis over 
+the shorter of the useful life of the asset or the  LOM , with useful lives of assets ranging from three to 20 
+years. In the case of Dome Mill and related infrastructure, depreciation expense is calcu lated using a 
+combination of LOM and unit -of-production basis.  
+ 
+Royalty expense of $1.9  million related to  a number of  royal ties existing on the Porcupine Operations , 
+mainly Borden and Hoyle Pond,  at the closing of the Porcupine Acquisition. Payments made on the Fr anco-
+Nevada Royal ties are not included in royalty expense . Rather, the se payments  are a reduction to the 
+deferred revenue liability on the Company’s balance shee t.   
+ 
+Earnings from Operations  
+Earnings from operations  in Q2 2025  totaled  $43.1 million , which compared to  losses from operations of 
+$2.6 million in Q2 2024 and $6.7 million  in Q1 2025. Improved performance compared to both prior 
+periods reflect ed earnings from mine operations in Q2 2025 , which more than offset a significant increase  
+in G&A  expense , to $22.9  million , in Q2 2025 compared to $1.8 million in Q2 2024 and $5. 5 million the 
+previous quarter. Of the $ 22.9  million, $16.6 million were  transaction -specific  costs for  legal, consulting  
+and advisory  services,  and other expenses , primarily related to the evaluation and completion of the 
+Porcupine Acquisition . Share -based compensation costs increased in Q2 2025 to $2.0 million from $0.7 
+million in Q2 2024 and $1.2 million the previous quarter mainly reflecting the impact of a higher share 
+price on costs associated with the exercise of stock options and Restricted Share Units.  
+ 
+For YTD 2025, earnings from operations totaled $36.5 million versus a loss from operations of $5.2 million 
+for the same period in 2024. Earnings from operations in YTD 2025 resulted from the  $68.8 million of 
+earnings from mining operations in Q2 2025, partially offset by $2 8.4 million of G&A expense , largely 
+related to the one-time acquisition -specific costs,  and $3. 1 million of share -based compensation costs.  
+ 
+Other  
+The Company had other loss of $6.9 million in Q2 2025 versus other loss of $3.0 million in Q2 2024 and 
+other income of $0.2 million the previous quarter. Other loss in Q2 202 5 reflected foreign  exchange  losses DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+16  due largely to the impact of a strengthening Canadian dollar versus the US dollar during the quarter. Net 
+finance costs in Q2 2025 totaled $11.7 million, which compared to net finance income of $0.5 million in 
+Q2 2024 and nil in Q1 2025. The net finance cost s in Q2 2025 mainly resulted from accretion expense of 
+$7.8 million  from reclamation and deferred consideration  and interest expense of $6.5 million , primarily 
+from the F ranco -Nevada Royal ties, which more than offset the favourable impact of $2.6 million of 
+interest income during the quarter , refle cting the significant increase in cash during Q2 2025.    
+ 
+For YTD 2025, other loss totaled $6.7 million compared to $1.5 million in YTD 2024. Other loss for both 
+period s related to foreign exchanges losses. Net finance costs in YTD 2025 totaled $11.7 m illion, mainly 
+reflecting accretion and interest expense, which more than offset $2.7 million  of interest income .  
+ 
+Net Earnings  
+Net earnings in Q2 2025 totaled  $5.5 million , or $0.01 per basic share, compared to  a net loss of $5.1 
+million , or $0.01 per basic share , in Q2 2024  and net loss of $6.5 million , or $0.02 per basic share , in Q1 
+2025 . Revenue from gold sales and earnings from mining operations following the closing of the Porcupine 
+Acquisition w ere the main driver s for improved earnings performance , partially offset by increased G&A 
+expense, share -based compensation cost s and exploration expen ditures, as well as the impact of foreign 
+exchanges losses and net finance costs.  
+ 
+For YTD 2025, net loss totaled $0.9 million, or  $0.00 per basic share, compared to a net loss of $5.6 million, 
+or $0.01 per  basic  share, for the same period in 2024. Net earnings generated in Q2 2025 accounted for 
+the significant improvement in earnings performance in YTD 2025 compared to YTD 2024.  
+ 
+CASH AND CASH FLOW S 
+ 
+ 
+(1) The difference between the $39.8 million of Acquisitions of mineral interests, property and 
+equipment and total capital expenditures of $44.2 million relates to the timing of cash expenditures 
+relative to the accrual of capital expenditures for accounting purposes.  
+ 10.567.1(200.6)
+(51.6)(39.8)1(1.8)252.5468.7
+0100200300400500600Change in Cash (March 31, 2025 -June 30, 2025)
+$ MillionsDISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+17  Discovery ’s cash balance at June 30, 2025,  totaled $25 2.5 million  compared to  $27.1 million at June 30, 
+2024, and $10.5 million at March 31, 2025 . The Company also had additional liquidity at June 30, 2025,  of 
+$100.0 million through the undrawn Franco -Nevada Debt Facility. The significant  increase  in cash  was 
+largely  related to  the Financing Package, which resulted in the receipt of $468.7 million of net proceeds. 
+Also contributing to the increase was net cash from operat ing activities of $67.1  million, which compared 
+to net cash used by operati ng activitie s of $8.5 million in Q 2 2024 and $ 6.1 million  in Q1 2025. The $67.1  
+million of net cash from operating activities resulted mainly from cash generated from gold sales at the 
+Porcupine Operations from April 16, 2025,  to the end of Q2 2025.   
+ 
+Net cash used by investing activities in Q2 2025 totaled $ 291.9 million  versus  $2.1 million in Q2 2024 and 
+$3.8 million in Q1 2025 . Cash Consideration paid to Newmont upon completion of the Porcupine 
+Acquisition comprised the largest component of net cash used by investing activities  in Q2 2025 , totaling 
+$200.6 million . In addition, $51.6 million of cash was restricted during the quart er related to letters of 
+credit and cash collateral for government required financial assurances in relation to closure plans 
+involving the Porcupine assets . The remaining $ 39.8  million of cash used by investing activities in Q2 2025 
+resulted from additions to mineral interests, plant and equipment, mainly representing capital 
+expenditures  for investment programs aimed at growing and optimizing the Porcupine Operations.   
+ 
+Net cash provided by financing activities in Q2 2025 totaled $ 470.5  million  compared to $0.6 million in Q2 
+2024 and $0. 1 million the pre vious quarter. The $470.5 million resulted  primarily  from the receipt of 
+$300 .0 million related to the Franco -Nevada Royalties and $168.7 million representing cash received from 
+the February 3, 2025  Public Offering, net of share issue costs.   
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+  
+FINANCIAL POSITION  
+  
+In addition to the significant increase in cas h during Q2 2025, to $252. 5 million at June 30, 2025, other 
+assets also increased during the quarter, mainly due to the Porcupine Acquisition.  Discovery accounted 
+for the Acquisition as a business combination under IFRS 3 using the acquisition method which requires 
+all identifiable assets and liabilities acquired to be recorded at their fair values as at the date of acquisition. 
+The values include d in the Discovery ’s Consolidated Financial Statements for the three and six months 
+ended June 30, 2025, represent  the preliminary estimates of the fair values of identified assets acquired 
+and liabilities assumed from Newmont. Final valuations of assets and liabilities are not yet complete due 
+to the timing of the Acquisition and the inherent complexity associated with the valuations . The Company 
+expects to finalize the determination of the fair values  of the assets and liabilities acquired and deferred 
+taxes within 12 months of the acquisition date . 
+ 
+As at the date of the Acquisition (April 15, 2025), the fair value for the Porcupine Acquisition was 
+estimated at $523.8 million. The fair value included the $200.0 million of Cash Consideration, $232.7 
+million of value for the 119.7 million common shares of Equity Consideration, reflect ing the significant 
+increase in Discovery’s share price since the Acquisition Agreement was announce d, to CAD$2.71 ($1.94) 
+per share at April 15, 2025  from CAD$0.9 0 ($0.6 4) per share on January 24, 2025  (the closing share price 
+immediately prior to the announcement of the Porcupine Acquisition) , and $92.9 million representing the 
+estimated present value of the $150 million of Deferred Consideration . There were also minor value 
+adjustments related to the  replacement of RSUs, transfer taxes and working capital movements.  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+18  Consistent with the acquisition method of accounting for a business combination under IFRS 3 , the fair 
+value of  net assets (assets less liabilities) added as a result of the  Porcupine Acquisition totaled $523.8 
+million.  More information regarding the accounting methodologies related to the Porcupine Acquisition 
+is available the accompanying interim financial statements.  
+ 
+CURRENT ASSETS  
+ 
+Accounts Receivable  
+Accounts receivable totaled $ 30.7  million at June 30, 2025 , of which $27.2 million was included in current 
+assets. Accounts receivable at June 30, 2025 , compared to  accounts receivables totaling  $3.7 million at 
+December 31, 2024, with $2.2 million  in current asset s. The increase in both current and non -current 
+accounts receivable primarily reflected receivables related to gold production and sales at the Porcupine 
+Operations following the closing of the Porcupine Acquisition on April 15, 2025. In addition, the IVA  
+(“Impuesto al Valor Agregad o” or “Value -Added Tax”)  and HST  receivable balance s increased to $6.3 
+million, $2.6 million higher than at December 31, 2024. The IV A receivable balance  represents amounts 
+expected to be collectible from the Mexican tax authorities through the IVA tax system  and HST receivable 
+increased as a result of the Porcupine acquisition . Of the $6.3 million of accounts receivable related to the 
+IVA and HST  receivable balance s, $2. 9 million was in current assets, with the remaining $3. 4 million 
+included in non -current assets, reflecting the expected timing for the receipt of payment related  to these 
+receivables.  
+ 
+Inventories  
+Total inventories totaled $1 31.4  million at June 30, 2025 . Inventories included in current assets totaled 
+$113.0 million, which included $79.4 million related to the value of ore stockpiles at Porcupine at June 30, 
+2025 , $14.0 million related to gold in circuit  inventories and $8.6 million related to precious metals  
+inventories. The $ 22.6 million  of in-circuit and precious metals  inventories largely resulted from difference 
+between gold recovered (50,552 ounces), gold poured (46,608 ounces) and gold sold (4 2,552 ounces)  
+during Q2 202 5. The $18.5 million of inventories included in non -current assets related entirely to ore 
+stockpiles that are not expected to be processed within the next 12 months.  
+ 
+NON -CURRENT ASSETS  
+ 
+Non -current assets at June 30, 2025,  totaled $ 1,165.5  million compared to $62.5 million at December 31, 
+2024. The increase mainly reflected the purchase price allocation related to the Porcupine Acquisition . 
+ 
+Mining Interests, Plant and Equipment   
+Mining interests, plant and equipment increased  to $1,084.2  million from $61.0 million at December 31, 
+2024. The increase mainly resulted  from  the addition of $ 562.9  million of depletable mining interests and 
+$313.9 million of plant and equipment related to the Porcupine Operatio ns.  
+ 
+Restricted Cash  
+At June 30, 2025, non -current assets included $51. 6 million of restricted cash, which represented letters 
+of credit and cash collateral for government required financial assurances in relation to closure plans 
+involving the Porcupine assets  filed with the Government of Ontario . Upon closing of the Porcupine DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+19  Acquisition, Discovery assumed  all environmental liabilities and closure obligations related to the 
+Porcupine Complex . 
+ 
+CURRENT LIABILITIES  
+ 
+Current liabilities totaled $1 67.1  million at June 30, 2025,  compared to $6.0 million at  December 31, 2024, 
+with the increase mainly resulting from higher accounts payable and accrued liabilities and  new current 
+liabilities including the current portion s of liabilities related to reclamation liabilities  current taxes payable, 
+deferred revenue  and employee -based benefits  
+ 
+Account Payable and Accrued Liabilities  
+Accounts payable  and accrued liabilities  totaled $46.3 million  and $ 30.5  million, respectively,  at June 30, 
+2025 , ($1.3 million and $2.2 million, respectively, at December 31, 2024) , with the  significant increases 
+from December 31, 2024 , main ly reflecting the timing of payments related to the procurement of goods 
+and services in support of the Porcupine Operations.   
+ 
+Reclamation Liabilities    
+The Company added  $350.7 million of reclamation liabilities related to the Porcupine Operations at closing 
+of the Porcupine Acquisition on April 15, 2025. The total reclamation liabilities increased to  $471.9 million 
+at June 30, 2025 , due to a change in the discount rate following completion of the Acquisition and as 
+accretion expense exceeded net payments made over the remainder of the quarter. The Company’s 
+reclamation liabilities were determined  based on the present value of the expected expenditures required 
+to settle the  reclamation obligation s. Reclamation obligation s are  capitalized as part of the asset’s carrying 
+value and amortized over the life of the related asset . Estimates of r eclamation costs are periodically 
+adjusted to reflect changes in the estimated present value resulting from the passage of time and revisions 
+to the estimates of either the timing or amount of reclamation costs . Of the total reclamation liabilities at 
+June 30, 2 025, $30.1 million was included in current liabilities representing expenditures expected to  be 
+incurred to settle reclamation obligati ons over the next 12 months. The remaining  $441.8  million of 
+reclamation liabilities are longer term and are included in non -current liabilities.  
+ 
+Employee -based benefits  
+Employee -related benefits obligations included in current liabilities totaled $11.2 million and mainly 
+related to accrued payroll and withholding taxes  owed in relation to the workforce obtained through the 
+Porcupine Acquisition. An additional $3.6 million of employee -based benefits obligations were included 
+in non -current liabilities at June 30, 2025. These obligations related to future employee pension benefit 
+obligations.  
+ 
+NON -CURRENT LIABILITIES  
+ 
+Non -current liabilities at June 30, 2025,  totaled $ 889.4  million versus $1.6 million at December 31, 202 4. 
+In addition to the long -term portions of reclamation liabilities and employee -benefits obligations, other 
+new non -current liabilities added as at June 30, 2025  included liabilities related to the  Franco -Nevada 
+Royalties , and a deferred consideration payable liability reflecting the $150 .0 million of Deferred 
+Consideration included as part of the Porcupine Acquisition , and deferred income tax payable . 
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+20  Deferred Revenue  
+The deferred revenue  liabilit y totaled $ 299.0 million at June 30, 2025 , reflecting proceeds of $300.0 
+million at the completion of the Acquisition under the Franco -Nevada Royalties, as well as $5.6 million of 
+interest expense to reflect the significant financing component associated with the Franco -Nevada 
+Royalties, partially offset by $6.6 million of initial payments made during Q2 2025. The deferred revenue 
+liability will be amortized over the estimated LOM of the Porcupine Operations. It will also be adjusted by 
+the Company’s cost of debt to reflect the financing component o f the arrangement.   
+ 
+Deferred Consideration  
+Deferred consideration payable liability totaled $9 7.2 million at June 30, 2025. The  fair value of the 
+Deferred Consideration at the closing of the Porcupine Acquisition, based on estimated present value, 
+was $92.9 million. The increase to $97.2 million at June 30, 2025,  resulted from  accretion as well as 
+currency translation adjustments.   
+ 
+CAPITAL MANAGEMENT  AND LIQUIDITY  
+ 
+The Company defines capital as its shareholder’s equity (comprised of issued share capital, contributed 
+surplus and earnings ). The Company manages its capital structure to maximize its financial flexibility  to 
+enable the Company to respond to changes in economic conditions and the risk characteristics of its 
+underlying assets a s well as possible business opportunities. The Company does not presently utilize any 
+quantitative measures to monitor its capital but rather relies on the expertise of the Company’s 
+management . Management reviews its capital management approach on an ongoing basis .  
+ 
+At June 30 , 2025 , the Company d id not have long -term debt outstanding , nor was it subject to any 
+externally imposed capital requirements or debt covenants.  
+ 
+As part of the Financing Package, the Company entered int o an agreement with Franco -Nevada for the 
+$100 .0 million Debt Facility, which remained undrawn at June 30, 2025. Terms of the Franco -Nevada Debt 
+Facility are discussed in the section of this MD&A entitled, PORCUPINE ACQUISITION .  
+ 
+At June 30 , 202 5, the Company had a positive working capital1 balance of $ 225.9  million, which include d 
+a cash  balance of $ 252. 5 million, as compared to a working capital of $ 17.0 million and cash of $ 20.4  
+million at December 31 , 2024. The working capital balance at June 30, 2025,  reflect ed the significant 
+increase in cash during Q2 2025 as well as  higher levels of short -term trade and other receivables and 
+inventories, offset by higher current liabilities, mainly accounts payable and accrued liabilities , 
+reclamation liabilities , deferred revenue, current income tax and employee -relat ed benefits.  
+ 
+(1) Example of Non -GAAP measure. See the section in this MD&A entitled, “NON -GAAP MEASURES” for more information.  
+ 
+SHARE CAPITAL  
+ 
+A summary of the common shares issued and outstanding a t June 30, 2025,  and impact of changes to 
+share capital  is as follows :  
+  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+21   
+In thousands   Common Shares   Amount ($)  
+At December 31, 2024   400,461  $ 166,409  
+Shares issued through public offering of subscription receipts   275,000  $ 168,713  
+Shares issued to Newmont on April 15, 2025   119,71 7 $ 232,698  
+Shares issued on exercise of options   5,217  $ 6,558  
+Shares issued on exercise of RSUs   1,89 0 $ 1,551  
+At June 30, 2025   802,2 85 $ 575,929  
+ 
+The non -cash share -based compensation expense for the three and six months ended June 30, 2025, was 
+$2.0 million  and $ 3.1 million , respectively (three and six months ended June 30, 2024 - $0.7 million  and 
+$1.3 million,  respectively).  
+ 
+OUTSTANDING SHARE DATA  
+ 
+At August 11, 2025,  the Company had the following equity securities and convertible securities 
+outstanding : 
+ 
+  Authorized   Number and Type 
+Outstanding  
+Voting or Equity Securities Issued and 
+Outstanding   
+Unlimited Common Shares   
+802,379,611 Common 
+Shares(1) 
+Securities convertible or 
+exercisable into voting or equity 
+securities  - stock options   
+Stock Options to acquire up 
+to 10% of outstanding 
+Common Shares   
+Stock options to acquire 
+10,510,000  Common 
+Shares  
+Securities convertible or 
+exercisable into voting or equity 
+securities  - RSU’s & DSU’s   RSU’s and DSU’s to acquire 
+up to 10% of outstanding 
+Common Shares   RSU’s and DSU’s to acquire 
+13,152,834 Common 
+Shares  
+Securities convertible or 
+exercisable into voting or equity 
+securities  – Share Purchase 
+Warrants   Share Purchase Warrants to 
+acquire up to 3,900,000 
+Common Shares of the  
+Company   3,900,000 S hare Purchase 
+Warrants to acquire up to 
+3,900,000 Common Shares 
+at CAD$0.95  for a term of 
+three years  (1) 
+(1) Refer to the PORCUPINE ACQUISITION  section. A t the closing of the Acquisition  on April 15, 2025, the 275,000,000 subscription receipts 
+were converted to common shares , on a one -for-one basis,  and an additional 119,716,667  in common shares were issued to Newmont for 
+the Equity Consideration related to the Porcupine Acquisition. As part of the financing package, the Share Purchase Warrants were issued 
+to Franco -Nevada.  
+ 
+  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+22  SUMMARY OF QUARTERLY RESULTS  
+$ Thousands   
+Q2 2025  Q1 2025  Q4 2024  Q3 2024  
+Revenue  $ 142,010  $ - $ - $ - 
+Earnings from mining operations   68,791   -  -  - 
+Earnings before income taxes   24,510   (6,45 2)  (5,663)   (3,860)  
+Net earnings   5,534   (6,45 2)  (5,663)   (3,860)  
+Basic earnings per share   0.01   (0.02)   (0.01)   (0.01)  
+Diluted earnings per share  $ 0.01  $ (0.02)  $ (0.01)  $ (0.01)  
+$ Thousands   
+Q2 2024 Q1 2024  Q4 2023  Q2 2023  
+Revenue  $ - $ - $ - $ - 
+Earnings from mining operations   -  -  -  - 
+Earnings before income taxes   (5,13 8)  (505)   (4,159 )  (1,646)  
+Net earnings   (5,13 8)  (505)   (4,159)   (1,646)  
+Basic earnings per share   (0.01)   (0.00)   (0.01)   (0.00)  
+Diluted earnings per share  $ (0.01)  $ (0.00)  $ (0.01 ) $ (0.00)  
+ 
+Net earnings of $5.5 million  in Q2 2025 resulted primarily from revenue and earnings from mining 
+operations related to gold sales following the completion of the Porcupine Acquisition on April 15, 2025. 
+With the completion of the Acquisition, Discovery  was transitioned from a single -asset, exploration and 
+development  company , to a growing gold producer anchored in Northern Ontario, with three operating 
+mines and significant growth potential through existing projects and exploration upside.  The change in 
+the Company’s business portfolio significantly impacts the comparability of results in Q2 2025, and in 
+future quarters, to quarterly results  prior to April 15, 2025 .       
+ 
+RELATED PARTY TRANSACTIONS  
+ 
+Key management personnel  
+ 
+Key management personnel include those persons having authority and responsibility for planning, 
+directing, and controlling the activities of the Company as well as those personnel with responsibility for 
+the oversight of the Company’s activities. The Comp any has determined that key management personnel 
+consist of directors, the  President and  Chief Executive Officer, and the Executive and Senior Vice 
+Presidents.  
+ 
+Besides the remuneration of directors, the Chief Executive Officer, and the Executive and Senior Vice 
+Presidents , there  were no related party transactions during the three and six months ended June 30, 2025.  
+ 
+FINANCIAL INSTRUMENT S 
+ 
+The Company’s financial instruments consist of cash and cash equivalents, trade  receivables, other  
+receivables, prepaids and deposits, investments in marketable securities, accounts payable and accrued 
+liabilities, lease liabilities, and net smelter return royalty. Refer to  the accompanying interim financial 
+statements  for details on the Company’s  financial instruments.  
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+23  FINANCIAL RISK FACTORS  
+ 
+The Company’s  financial  risk factors are disclosed in  the accompanying interim financial statements.  
+ 
+COMMITMENTS AND CONTRACTUAL OBLIGATIONS  
+ 
+The Company’s commitments and contractual obligations changed due to the Porcupine acquisition and 
+are disclosed in the accompanying interim financial statements.  
+ 
+ACCOUNTING POLICIES AND BASIS OF PRESENTATION  
+ 
+For a full description of the Company’s material accounting policies, please see note 3 of the consolidated 
+financial statements for the year ended December 31, 2024.  Any changes in or adoption of new 
+accounting policies adopted by the Company in Q2 2025 are disclosed in note 3 of the accompanying 
+interim financial statements.  
+ 
+CRITICAL ACCOUNTING JUDGMENTS AND ESTIMATES  
+The preparation of consolidated financial statements in conformity with IFRS Accounting Standards 
+requires management to make estimates, judgments and assumptions that affect the application of 
+accounting policies and the reported amounts of assets, liabil ities, income and expenses. Actual results 
+could differ from these estimates. Estimates and underlying assumptions are reviewed on an ongoing 
+basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised 
+and in an y future periods affected.  
+ 
+Our significant judgments, estimates and assumptions are disclosed in note 3 of the audited Consolidated 
+financial  statements for the year ended December 31, 2024,  and changes to significant judgments, 
+estimates and assumptions are disclosed in note 5 of the accompanying interim financial statements.  
+  
+OFF-BALANCE SHEET ARRANGEMENTS  
+ 
+The Company does not have any off -balance sheet arrangements.  
+ 
+NON -GAAP MEASURES  
+ 
+The Company has included certain non -GAAP measures in this document, as  detailed below.  In the mining 
+industry, these are common performance measures and ratios but may not be comparable to similar 
+measures or ratios presented by other issuers and the non -GAAP measures and ratios do not have any 
+standardized meaning. Accordingly, these measu res and ratios are included to provide additional 
+information and should not be considered in isolation or as a substitute for measures of performance 
+prepared in accordance with IFRS Accounting Standards. These measures do not have any standardized 
+meanin g prescribed under IFRS, and therefore may not be comparable to other issuers.  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+24   
+Free Cash Flow  
+Free Cash Flow is a non -GAAP performance measure that is calculated as cash flows from operations net 
+of cash flows invested in mineral property, plant, and equipment and exploration and evaluation assets. 
+The Company believes that this measure is useful t o the external users in assessing the Company’s ability 
+to generate cash flow  after capital investments and build the cash resources of the Company.  
+ 
+Free cash flow is reconciled to the amounts include in the Consolidated Statements of Cash Flows as 
+follows:  
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+$ Thousands   2025   2024   2025   2025   2025  
+Net cash provided by operating activities  $ 67,08 1 $ (8,543)  $ (6,07 5) $ 61,005 $ (11,014)  
+Mineral interests  and PPE additions     (39,766 )  (2,141)   (3,767)   (43,533 )  (5,448)  
+Free cash flow  $ 27,315 $ (10,684)  $ (9,84 2) $ 17,47 2 $ (16,462)  
+ 
+Sustaining and Growth Capital  
+Sustaining capital and growth capital are non-GAAP  measures. Sustaining capital is defined as capital  
+required to maintain  current operations at existing levels. Growth capital is defined as capital  
+expenditures for major growth projects or  enhancement capital for significant infrastructure  
+improvements at existing operations. Both measurements are used by  management to assess the 
+effectiveness of investment programs.  
+ 
+ 
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+$ Thousands   2025   2024   2025   2025   2025  
+Sustaining capital  $ 16,122 $ - $ 36 $ 16,158 $ - 
+Growth capital   28,053  1,935   3,09 2  31,145  5,563  
+Finance leases related to IFRS 16   35  -  735  771  - 
+Total capital expenditures  $ 44,21 1 $ 1,935  $ 3,863 $ 48,07 4 $ 5,563  
+ 
+Operating Cash Costs and Operating Cash Costs per Ounce Sold   
+Operating cash costs , operating cash costs  per tonne , per ounce sold  are non -GAAP  measures. In the gold 
+mining  industry, these metrics are common performance measures but do not have any standardized 
+meaning under  GAAP . Operating cash costs include mine site operating costs such as mining, processing , 
+administration  and royalty  expenses  but exclude  depreciation and depletion and reclamation costs. 
+Operating cash cost per  ounce sold is based on ounces sold and is  calculated by dividing operating cash 
+costs by volume of gold ounces sold  is based on ounces produced  and is  calculated by dividing operating 
+cash costs , excluding movements in precious metals and in -circuit inventory, by volume of gold ounces 
+produced . 
+ 
+The Company discloses operating cash costs and operating cash cost per tonne and per ounce as it  
+believes the measures  provide valuable assistance to investors and analysts in evaluating the Company’s  
+operational performance and ability to  generate cash flow. The most directly comparable measure  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+25  prepared in accordance with GAAP  is total production costs . Operating cash costs and operating cash  costs  
+per ounce of gold should not be considered in isolation or as a substitute for  measures prepared in 
+accordance with GAAP . 
+ 
+AISC and AISC per Ounce Sold   
+AISC and AISC per ounce are non-GAAP  measures. These measures are intended to assist readers in 
+evaluating the total costs of producing and selling gold from current operations. While there is no 
+standardized meaning across the industry for this measure, the Company’s definition conforms to the 
+definition of AISC as set out by the World Gold Council in its guidance note dated June 27, 2013.  
+The Company defines AISC as the sum of operating costs (as defined and calculated above), sustaining 
+capital,  exploration expense,  corporate expenses, lease payments relating to sustaining assets, and 
+reclamation cost accretion and depreciation related to current operations. Corporate expenses include 
+general and administrative expenses, net of transaction related costs, severance ex penses for 
+management changes and interest income. AISC excludes growth capital expenditures, growth 
+exploration expenditures,  reclamation cost accretion and depreciation not related to current operations, 
+lease payments related to non -sustaining assets, interest expense, debt repayment and taxes.  
+ 
+Operating  cash costs and AISC Reconciliation  
+The following tables reconciles these non -GAAP  measures to the most directly comparable GAAP  
+measures available for the  three and six months ended June 30,  2025, and 202 4: 
+ 
+ 
+$ Thousands unless otherwise stated  Hoyle  Borden  Porcupine  
+(Excl. Pamour)  Corporate  Total Consolidated  Pamour  
+Production costs   20,870    22,038  42,908  -   42,908    12,011  
+Royalty expense   667   981  1,648  -    1,648    268  
+Franco NSR   2,295   3,378  5,673  -   5,673    923  
+One-time TSA   (644)   (783)  (1,427)  -   (1,427)   (989)  
+Operating cash costs   23,188    25,614   48,802  -   48,802    12,213   
+General and administrative1 - - -  5,832     5,832  - 
+Share -based compensation  - - -  1,953      1,953  - 
+Accretion of site closure provisions   553   673  1,226   -  1,226    850  
+Amortization of site closure provision  - - 3,063   -   3,06 3  - 
+Sustaining capital   5,743   9,032  14,775   1,347    16,122   -  
+Expensed exploration   659  - 659  -   659  - 
+Sustaining leases  - - -  21     21  - 
+AISC   30,143    35,319   68,525   9,153    77,678   13,063   
+Ounces of gold sold    14,804    21,792  36,596   -   36,596    5,954   
+Operating cash costs per ounce sold  ($)  1,566    1,175  1,334   -   1,334    2,051  
+Sustaining capital expenditures  per ounce sold  ($)  388  414  404  -   441   - 
+AISC per ounce sold  ($)  2,036    1,621  1,872   -   2,123   2,194   
+(1) Excludes certain non -recurring items not reflective of normal operations.  
+ 
+ 
+Average Realized Price per Ounce Sold  
+In the gold mining industry, average realized price per ounce sold is a common performance measure that 
+does not have any  standardized meaning. The most directly comparable measure prepared in accordance  
+with GAAP  is revenue from gold sales.  Average realized price per ounces sold should not be considered in  
+isolation or as a substitute for measures prepared in  accordance with GAAP . The measure is intended to  
+assist readers in evaluating the total revenues realized in a period from  current operations.  
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+26   Three months ended  
+ June 30,  June 30,  March 31  
+$ Thousands  unless otherwise indicated   2025   2024   2025  
+Revenue  $ 142,010  $ - $ - 
+Ounces sold    42,550   -  - 
+Average realized price per ounce sold  ($) $ 3,337  $ - $ - 
+ 
+Adjusted N et Earnings and Adjusted Net Earnings per Share  
+Adjusted net earnings and adjusted net earnings per share are used by management and investors to 
+measure the  underlying operating performance of the Company.  Adjusted net earnings is defined as net  
+earnings adjusted to exclude the after -tax impact of specific items that are significant,  but not reflective  
+of the underlying operations of the Company, including foreign exchange gains and losses  and other  non-
+recurring items.  Adjusted net earnings per share is calculated using the weighted average number of  
+shares outstanding for adjusted net  earnings per share.  
+ 
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+$ Thousands  unless otherwise indicated   2025   2024   2025   2025   2025  
+Net earnings  $ 5,534  $ (5,138)  $ (6,452)  $ (918)  $ (5,643)  
+Business development expenses   16,619   79  3,534   20,153   79 
+Foreign exchange loss (gain)   6,821   2,952   (128)   6,693   1,486  
+One-time TSA   2,416   -  -  2,416   - 
+Income tax related to above 
+adjustments    
+(2,956)    
+-   
+-   
+(2,956)    
+- 
+Adjusted net earnings  $ 28,434  $ (2,107)  $ (3,046)  $ 25,388  $ (4,078)  
+Weighted average shares outstanding – 
+basic (‘000s)    
+735,616    
+397,570   
+  
+401,122    
+569,2 93  
+  
+396,771  
+Adjusted net earnings per share ($)  $ 0.04  $ (0.01)  $ (0.01)  $ 0.04  $ (0.01)  
+ 
+Earnings before Interest, Taxes, Depreciation, and Amortization (“EBITDA”)  
+EBITDA represents net earnings before interest, taxes, depreciation and amortization. EBITDA is an  
+indicator of the  Company’s ability to generate liquidity by producing operating cash flow to fund working  
+capital needs, service debt  obligations, and fund capital expenditures.  
+The following is a reconciliation of EBITDA to the consolidated financial statements:  
+ 
+ Three months ended  Six months ended  
+ June 30,  June 30,  March 31  June 30  June 30,  
+  2025   2024   2025   2025   2025  
+Net earnings  $ 5,534  $ (5,138)  $ (6,452)  $ (918)  $ (5,643)  
+Add back:            
+Finance costs   14,307   3  126  14,433   6 
+Depletion and depreciation   16,384   -  -  16,384   - 
+Income tax expenses (recovery)   18,976   -  -  18,976   - 
+EBITD A $ 55,201  $ (5,135)  $ (6,326)  $ 48,875  $ (5,637)  
+ 
+ 
+ DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+27  Working Capital  
+Working capital is a non-GAAP  measure. In the gold mining industry, working capital is a common measure  
+of liquidity, but  does not have any standardized meaning.  The most directly comparable measure  
+prepared in accordance with GAAP  is current assets and current liabilities. Working  capital is calculated 
+by deducting current liabilities from current assets. Working capital should not be considered in isolation  
+or as a substitute f or measures prepared in accordance with GAAP . The measure is intended to assist 
+readers  in evaluating  the Co mpany’s liquidity. Working capital is reconciled to the amounts in the 
+Consolidated  Statements of Financial Position as  follows:  
+ 
+ As at June 30  As at December 31,  
+  2025   2024 
+Current assets  $ 393,007  $ 22,937  
+Current liabilities   167,123   5,984  
+Working capital  $ 225,884  $ 16,953  
+ 
+OTHER RISKS AND UNCERTAINTIES  
+ 
+The operations of the Company are speculative due to the high -risk nature of its business, which is the 
+acquisition, financing, exploration and development of mining properties. Additional risks not currently 
+known to the Company, or that the Company curre ntly deems  to be  immaterial, may also impair the 
+Company’s operations. If any of these risks occur, including the financial risks described above, the 
+Company’s business, financial condition and operating results could be adversely affected.   
+ 
+Key risks are described below. For a detailed discussion of risks, refer to the Company’s annual MD&A and 
+Annual Information Form (“AIF”) for the year ended December 31, 2024, available on the Company’s 
+website.  
+ 
+This MD&A also contains forward -looking information that involve s risks and uncertainties. The 
+Company’s actual results could differ materially from those anticipated in these forward -looking 
+statements as a result of the risks faced by the Company as described in the documents incorporated by 
+reference herein. Refer to  the “Cautionary Statement Regarding Forward -Looking Information”.  
+ 
+Risks Relating to the Porcupine  Complex  Acquisition  
+ 
+Potential Dispute with First Nations Community Could Have Adverse Consequences Following the 
+Porcupine Acquisition Closing  
+In November 2024, the Taykwa Tagmou Nation ("TTN") filed a Statement of Claim against His Majesty the 
+King in Right of Ontario represented by the Ministry of Northern Development, Mines, Natural Resources 
+("Ministry of Mines") and the Ministry of Environme nt, Conservation and Parks (the "Ministry of the 
+Environment"), G oldcorp Canada Ltd. (“GCL”) , and Newmont , claiming the Crown failed to protect TTN's 
+lands and way of life from the impacts of mining in the Treaty No. 9 areawithout consulting TTN or 
+consid ering the impacts to TTN's Treaty rights (the "TTN Litigation"). TTN had previously brought an 
+application for Judicial Review in July 2023 requesting relief respecting three of the mining exploration 
+permits issued to GCL. In January 2025, Newmont and GCL filed a Notice of Intent to Defend with respect 
+to this Action. His Majesty the King in Right of Ontario also filed a Notice of Intent to Defend in November DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+28  2024. In June 2025, TTN amended it claim naming the Company and its wholly -owned subsidiary, Dome 
+Mine Ltd., as defendants, following the completion of the Porcupine Acquisition. The Co mpany  believes 
+this claim is without merit.  
+ 
+The outcome of this claim is uncertain and could result in delays, additional costs, or modifications to 
+previously issued permits, future permit applications  and difficulty in community relations.  
+ 
+Unexpected Liabilities Related to the Porcupine Acquisition  
+In connection with the Porcupine Acquisition, there may be liabilities including environmental liabilities 
+associated with the Porcupine Complex that the Co mpany  failed to discover or was unable to quantify in 
+the due diligence which it conducted in connection with the Porcupine Acquisition and the Co mpany  may 
+not be indemnified for some or all of these liabilities. The Company  may discover that it has acquired 
+substantial undisclosed liabilities. The discovery of any material liabilities, or the inability to obtain full 
+indemnification for such liabilities, could have a material adverse effect on the Co mpany 's business, 
+financial condition or future prospects. While the Co mpany  has estimated these potential liabilities for 
+the purpose of completing the Porcupine Acquisition , there can be no assurance that any resulting liability 
+including environmental liabilities will not exceed the Co mpany 's estimates.  
+ 
+The existence of undisclosed liabilities could have an adverse impact on the Co mpany 's business, financial 
+condition and results of operations.  
+ 
+Nature of Acquisitions  
+Acquisitions of mineral properties are based in large part on  engineering, environmental and economic 
+assessments made by the acquiror, independent engineers and consultants. These assessments include a 
+series of assumptions regarding such factors as operational performance, status of and impact of policy, 
+legislati on and regulations and effective tax rates. Many of these factors are subject to change and are 
+beyond Discovery's control. All such assessments involve a measure of engineering, environmental and 
+regulatory uncertainty that could result in lower revenue o r higher operating or capital expenditures than 
+anticipated.  
+ 
+Information Provided by GCL  
+Information related to the Porcupine Complex in this MD&A  is based on information provided by GCL. 
+Although the Co mpany  has conducted what it believes to be a prudent and thorough level of investigation 
+with respect to the Porcupine Complex in connection with the Porcupine Acquisition, a certain degree of 
+risk remains regarding the accuracy and completeness of such information. While the Co mpany  has no 
+reason to believe the information obtained from GCL is misleading, untrue or incomplete, the Co mpany  
+cannot assure the accuracy or completeness of such information, nor can the Co mpany  compel GCL to 
+disclose events which may have occurred or may affect the completeness or accuracy of such information, 
+but which are unknown to the Co mpany . 
+ 
+Failure to Realize Porcupine Acquisition Benefits  
+There is a risk that some or all of the expected benefits of the Porcupine Acquisition may fail to materialize 
+or may not occur within the time periods that Discovery anticipates. The realization of such benefits may 
+be affected by a number of factors, man y of which are beyond the control of the Co mpany . DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+29   
+Moreover, a variety of factors, including those risk factors set forth in this AIF, may adversely affect the 
+Company 's ability to achieve the anticipated benefits of the Porcupine Acquisition.  
+ 
+Integration of the Porcupine Complex  
+Although the Co mpany  expects to realize certain benefits as a result of  the Porcupine Acquisition, there 
+is a possibility that the Co mpany  is unable to fully realize on the efficiencies and benefits of the integration  
+or may be unable to do so within the a nticipated timeframe.  
+ 
+The Co mpany  expects to implement certain operational improvements and cost -savings initiatives 
+following the completion of the Porcupine Acquisition. Any cost -savings that the Co mpany  realizes from 
+such efforts may differ materially from the Co mpany 's estimates. In addition, any cost -savings that the 
+Company  realizes may be offset, in whole or in part, by reductions in revenues or through increases in 
+other expenses. The Co mpany 's operational improvements and cost -savings plans are subject to 
+numerous risks and uncerta inties that may change at any time.  
+ 
+To effectively integrate the Porcupine Complex, Discovery must establish appropriate operational, 
+administrative, finance, and management systems and controls functions relating to the Porcupine 
+Complex. These efforts, together with the ongoing integration  following the closing of the Porcupine 
+Acquisition, will require substantial attention from Discovery's management. This diversion of 
+management attention, as well as any other difficulties which Discovery may encounter in completing the 
+Acquisition and i ntegration process, could have an adverse effect on Discovery's business, financial 
+condition, results of operations and cash flows.  
+ 
+Discovery Will Rely on GCL Following Completion of the Porcupine Acquisition for Certain Services  
+In connection with the Porcupine Acquisition, Discovery and GCL pursuant to which GCL has agreed to 
+provide, or cause its affiliates to provide, certain services to Discovery that are required for the operation 
+of the Porcupine Complex in a similar manner as the Porcupine Complex was operated immediately prior 
+to the Porcupine Acquisition Closing. As a result, Discovery will be reliant on GCL’s personnel, good faith, 
+contractual compliance, expertise and judgment in providing the services under the T SA, whe re the 
+Company 's ability to manage operational risks may be limited. Accordingly, Discovery may be exposed to 
+adverse developments in the business and affairs of GCL, its management and to its financial strength.  
+ 
+There can be no assurance that the services provided by GCL pursuant to the T SA will be adequate for the 
+Company  to operate the Porcupine Complex and facilitate the efficient and effective transition of business 
+operations as currently contemplated, or at all. If GCL does not perform the services under the T SA as 
+currently contemplated, the operations and financial performance of the Porcupine Complex may be 
+negatively affected, which could have a material adverse effect on the business, financial condition  and 
+future performance of the Co mpany . If, after the expiration of the T SA, the Co mpany  is unable to perform 
+these services or replace them in a timely manner or on terms and conditions as favorable as those under 
+the T SA, the Co mpany  may experience operational problems and an increase in its costs.  
+ 
+Failure by GCL to meet its obligations under the T SA could have a material adverse effect on the operation 
+of the Porcupine Complex , which could in turn have a material adverse effect on the business, financial 
+condition and future performance of the Co mpany . DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+30  Litigation and Public Attitude towards the Porcupine Acquisition  
+The Co mpany  may be exposed to increased litigation from shareholders or other third -parties in 
+connection with the Porcupine Acquisition. Such litigation may have an adverse impact on the Co mpany 's 
+business and results of operations or may cause disruptions to the Co mpany 's operations. Even if any such 
+claims are without merit, defending against these claims can result in substantial costs and divert the time 
+and resources of management.  
+ 
+Furthermore, public attitudes towards the Porcupine Complex  could result in negative press coverage and 
+other adverse public statements affecting the Co mpany . Adverse press coverage and other adverse 
+statements could negatively impact the ability of the Co mpany  to achieve the benefits of the Porcupine 
+Acquisition or take advantage of various business and market opportunities. The direct and indirect effects 
+of negative publicity, and the demands of responding to and addressing it, may have a material advers e 
+effect on the Co mpany 's business, financial condition, results of operations and cash flows.  
+ 
+Porcupine Acquisition and Related Costs  
+The Co mpany  incurred  significant costs associated with completing the Porcupine Acquisition and will 
+continue to incur significant costs through integrating the operations of Discovery and the Porcupine 
+Complex . The substantial majority of such costs are non-recurring expenses resulting from the Porcupine 
+Acquisition and consist primarily of transaction costs related to the Porcupine Acquisition. Additional 
+unanticipated costs may be incurred through the integration of the Porcupine Complex into Discovery's 
+existing business and such costs, if incurred, may have a negative effect on the Co mpany 's business, 
+operations and financial performance and cash flows.  
+ 
+Increased Indebtedness  
+In financing the Porcupine Acquisition, Discovery may incur additional debt under the Debt Facility  and/or 
+any other debt facilities which are entered into by the Company . Such borrowing, to the extent incurred, 
+would increase Discovery's consolidated indebtedness. Such additional indebtedness will increase 
+Discovery's interest expense and debt service obligations and may have a negative effect on Discovery's 
+results of op erations and/or credit ratings. Such increased indebtedness may also make Discovery's results 
+more sensitive to increases in interest rates. Discovery's degree of leverage could have other important 
+consequences for purchasers, including: (i) having a negative effect on Discovery's issuer debt rating; (ii) 
+it may limit Discovery's ability t o obtain additional financing for working capital, capital expenditures, debt 
+service requirements, acquisitions and general corporate or other purposes; (iii) it may limit Discovery's 
+ability to declare dividends on the Common Shares; (iv) Discovery may b e vulnerable in a downturn in 
+general economic conditions; and (v) Discovery may be unable to make capital expenditures that are 
+important to its growth and strategies.  
+ 
+SCIENTIFIC AND TECHNICAL INFORMATION  
+ 
+Scientific and technical Information in this Circular with respect to the Company’s Cordero project has 
+been prepared and presented based on the technical report entitled  “Cordero Silver Project, Technical 
+Report & Feasibility Study”  with an effective date of February 16, 2024, available on the Company’s 
+SEDAR+ profile at www.sedarplus.ca , and such scientific and technical information is subject to the 
+assumptions and qualifications contained in the said technical report.  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+31  Scientific and technical Information in this Circular with respect to the Company’s Porcupine complex has 
+been prepared and presented based on the technical report entitled  “Porcupine Complex, Ontario, 
+Canada, NI 43 -101 Technical Report on Preliminary Economic Assessment”  with an effective date of 
+January 13, 2025, available on the Company’s SEDAR+ profile at www.sedarplus.ca , and such scientific 
+and technical information is subject to the assumptions and qualifications contained in the said technical 
+report.  The Technical Report includes the results of a preliminary economic assessment which is 
+preliminary in nature. It includes Inferred Mineral Resources that are considered too speculative 
+geologically to have the economic considerations applied to them that would enable them to be 
+categorized as Mineral Reserves and there is no certainty that the estimates will be realized.  
+ 
+The scientific and  technical information in this MD&A was reviewed and approved by Pierre Rocque, 
+P.Eng., Chief Operating Officer of the Company and  Eric Kallio  P. Geo., Senior Vice President Exploration 
+of the Company, who are recognized as a Qualified Person s (“QP s”) under the guidelines of National 
+Instrument 43 -101 – Standards of Disclosure for Mineral Projects (“ NI 43 -101”).  
+ 
+MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING  
+ 
+The Canadian Securities Administrators have issued National Instrument 52 -109 - Certification of 
+Disclosure in Issuers’ Annual and Interim Filings (“NI 52 -109”) which requires public companies in Canada 
+to submit annual and interim certificates relating to  the design and effectiveness of the disclosure controls 
+and procedures that are in use at the Company. The Company’s disclosure controls and procedures are 
+designed to provide reasonable assurance that all relevant information is gathered and reported on a 
+timely basis to senior management, including the Company’s Chief Executive Officer and Chief Financial 
+Officer, to enable this information to be reviewed and discussed so that appropriate decisions can be 
+made regarding the timely public disclosure of th e information. Management has evaluated the 
+effectiveness of the Company’s disclosure controls and procedures and has concluded that they were 
+effective as at June 30, 2025.   
+ 
+Internal Control over Financial Reporting  
+NI 52 -109 also requires public companies in Canada to submit interim and annual certificates relating to 
+the design of internal control over financial reporting (“ICFR”) and an annual certificate that includes 
+evaluating the operating effectiveness of ICFR. The Company’s ICFR is designed to provide reasonable 
+assurance regarding the reliability of financial reporting and the preparation of financial statements for 
+external purposes in accordance with IFRS  Accounting Standards . Management is responsible for 
+establishing and maintaining ICFR. The Company used the 2013 Commission of Sponsoring Organizations 
+of the Treadway Commission (“COSO”) framework as the basis for designing its ICFR. Due to its inherent 
+limitations, ICFR may not prevent or detect misstatem ents on a timely basis as such systems can only be 
+designed to provide reasonable as opposed to absolute assurance. Also, projections of any evaluation of 
+the effectiveness of ICFR to future periods are subject to the risk that the controls may become inad equate 
+because of changes in conditions, or that the degree of compliance with the policies or procedures may 
+deteriorate. There have been no significant changes in the Company’s internal controls during the three 
+and six months ended June 30, 2025,  that have materially affected, or are reasonably likely to materially 
+affect, ICFR. The individuals performing the duties of the Company’s Chief Executive Officer and the Chief 
+Financial Officer have each evaluated the operating effectiveness of the Company’s IC FR as at June 30, 
+2025,  and have concluded that the ICFR are effective.  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+32  Limitation on Scope of Design  
+The Company has limited the scope of the audit on its disclosure controls and procedures and internal 
+control over financial reporting evaluation to exclude Porcupine, as permitted by securities regulators.  
+ 
+The table below presents certain summary financial information included in the Company’s interim 
+financial statements amounts related to Porcupine excluded from our evaluation:  
+ 
+Selected financial information from the interim consolidated statements of income 
+(loss)  April 16 -June 30,  
+2025  
+Production costs  $  54,919  
+Depreciation and amortization expense    16,384  
+Royalty expense    1,916  
+Earnings from operations  $  68,791  
+ 
+ 
+Selected financial information from the interim consolidated statements of financial 
+position  As at June 30,  
+2025  
+Current assets  $  130,676  
+Non -current assets    1,034,785  
+Current liabilities    156,771  
+Non-current liabilities    790,609  
+ 
+FORWARD -LOOKING INFORMATION  
+ 
+Except for statements of historical fact, information contained, or incorporated by reference, herein 
+constitutes “forward -looking information” and “forward -looking statements” within the meaning of 
+applicable securities laws. Such information or statement s may relate to future events, facts or 
+circumstances or the Company ’s future financial or operating performance or other future events or 
+circumstances. Forward -looking information is often, but not always, identified by the use of words such 
+as “seek”, “anticipate”, “plan”, “continue”, “planned”, “expect”, “project”, “pr edict”, “potential”, 
+“targeting”, “intends”, “believe”, and similar expressions, or describes a “goal”, or variation of such words 
+and phrases or states that certain actions, events or results “may”, “should”, “could”, “would”, “might” 
+or “will” be taken, occur or be achieved. Statements relating to mineral resources are deemed to be 
+forward -looking statements, as they involve the implied assessment, based on certain estimates and 
+assumptions, that the mineral resources described exist in the quantities pre dicted or estimated or that 
+it will be commercially viable to produce any portion of such resources. Forward -looking statements in 
+this MD&A  include, but may not be limited to, statements and expectations regarding: outlooks for the 
+Porcupine Complex and t he Cordero Project pertaining to production rates, mining and processing rates, 
+total cash costs, all -in sustaining costs, capital spending, cash flow, operational performance, mine life, 
+value of operations and decreases to costs resulting from the intend ed mill expansion; intended 
+infrastructure investments in, method of funding for, and timing of completion of the development and 
+construction of the Cordero Project, planned continuation of negotiation of formal agreements with land 
+owners and Mexican aut horities with respect to the Cordero Project, as well as other statements and 
+information as to strategy, plans or future financial and operating performance, such as project timelines, DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+33  production plans, expected sustainable impact improvements, expected exploration programs, costs and 
+budgets, forecasted cash shortfalls and the ability to fund them and other statements that express 
+management’s expectations or estimates of future plans a nd performance, as well as the anticipated use 
+of proceeds therefrom and the impact thereof on Discovery's financial condition;  and the Porcupine 
+Complex, including the assumptions and qualifications contained in the Porcupine Technical Report (as 
+defined herein). Forward -looking statements and forward -looking information are not guarantees of 
+future performance and are based upon a number of estimates and assumptions of management at the 
+date the statements are made, including among other things, the futur e prices of gold, silver, lead, zinc, 
+and other metals, the price of other commodities such as coal, fuel and electricity, currency exchange 
+rates and interest rates; favourable operating conditions, political stability, timely receipt of governmental 
+appr ovals, licenses, and permits (and renewals thereof); access to necessary financing; stability of labour 
+markets and in market conditions in general; availability of equipment; the estimation of mineral resource 
+and mineral reserve estimates, and of any met allurgical testing completed to date; estimates of costs and 
+expenditures to complete our programs and goals; the speculative nature of mineral exploration and 
+development in general; there being no significant disruptions affecting the development and ope ration 
+of the project, including possible pandemic; exchange rate assumptions being approximately consistent 
+with the assumptions in the report; the availability of certain consumables and services and the prices for 
+power and other key supplies being appr oximately consistent with assumptions in the report; labour and 
+materials costs being approximately consistent with assumptions in the report and assumptions made in 
+mineral resource estimates, including, but not limited to, geological interpretation, grad es, metal price 
+assumptions, metallurgical and mining recovery rates, geotechnical and hydrogeological assumptions, 
+capital and operating cost estimates, and general marketing, political, business and economic conditions. 
+Many of these assumptions are inhe rently subject to significant business, social, economic, political, 
+regulatory, competitive and other risks and uncertainties, contingencies, and other factors that are not 
+within the control of Discovery Silver Corp. and could thus cause actual performan ce, achievements, 
+actions, events, results or conditions to be materially different from those projected in the forward -
+looking statements and forward -looking information.  
+Forward -looking information and forward -looking statements involve known and unknown risks, 
+uncertainties and other factors which may cause the actual results, performance or achievements of the 
+Company  to be materially different from any other future results, performance or achievements 
+expressed or implied by such statements. In addition to factors already discussed in this document, such 
+risks, uncertainties and other factors include, among others: metal prices, continued access to capital and 
+financing,  general economic and market access restrictions or tariffs, changes in U.S. laws and policies 
+regarding regulating international trade, including but not limited to  changes to or implementation of 
+tariffs, trade restrictions, or responsive measures of foreign and domestic govern men ts, changes to cost 
+and availability of goods and raw materials, along with supply, logistics and transportation constraints, 
+changes in general economic conditions including market volatility due to uncertain trade policies and  
+tariffs ;potential disputes with Indigenous groups  in relation to the Porcupine Complex; risks related to 
+unexpected liabilities arising after the Porcupine Acquisition Closing; risks related to the nature of 
+acquisitions; reliance on information about the Porcupine Complex provided by third parties; regu latory 
+risks associated with the Porcupine Acquisition; the risk that the Company  will not realize the anticipated 
+benefits of the Porcupine Acquisition; risks related to integrating the Porcupine Complex; reliance on a 
+third party for transitional services for a period of time after the Porcupine Acquisition Closing; litigation 
+and public attitude towards the Porcupine Acquisition; costs related to the Porcupine Acquisition; 
+increased indebtedness arising f rom financing the Porcupine Acquisition; risks associated with 
+exploration, development, and operating risks, and risks associated with the early -stage status of the DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+34  Company ’s mineral properties; the nature of exploration could have a negative effect on the Company ’s 
+operations and valuation; risk related to the cyclical nature of the mining business; permitting and license 
+risks; risks related to title to land and the potential acquisition of neighboring land packages and the timing 
+thereof; risks related to requir ing a significant supply of water for the Company ’s operations and being 
+able to source it; the availability of adequate infrastructure for the Company ’s ope rations; risks related to 
+community relations; environmental risks and hazards and the limitations that environmental regulation 
+poses on the Company ; market price volatility of the Company ’s common shares; uncertainties with 
+respect to economic conditions; the Company ’s mineral exploration activities being subject to extensive 
+laws and regulations and the risk of failing to comply with those laws or obtain required permits; the 
+accuracy of historical and forward -looking operational and financial informatio n estimates provided by 
+Newmont; the Company’s ability to integrate the Porcupine Operations; statements regarding the 
+Porcupine Operations, including the results of technical studies and the anticipated capital and operating 
+costs, sustaining costs , inte rnal rate of return, concession or claim renewal, the projected mine life and 
+other attributes of the Porcupine Operations, including net present value, the timing of any environmental 
+assessment processes, reclamation obligations;  risks and uncertainties related to operating in a foreign 
+country, and specifically, risks arising from operating in Mexico; risks posed by health epidemics and other 
+outbreaks; climate change risks , including risks associated with increased frequency of natural disasters 
+such as fire, flood and seismicity;  the risk that commodity prices decline; cybersecurity risks; risks of 
+adverse publicity; potential dilution to the common shares; risks associated with contractual agreements 
+and subsidiaries; the potential of future lack of fu nding; credit and liquidity risks; the Company ’s history 
+of net losses and negative operating cash flow; the Company ’s reliance on a limited number of properties; 
+uninsurable risks; costs of land reclamation; pandemic and global health risks on the Company ’s business, 
+operations, and market for securities;  the competitive nature of mineral exploration and in the mining 
+industry generally; the Company ’s reliance on specialized skills and knowledge; risks associated with 
+acquisitions and integrating new business; future sales of common shares by existing shareholders; risks 
+associated with having multiple shareholders holding over 10% of the common shar es; influence of third -
+party stakeholders; litigation risk; conflicts of interest; reliance on key executives; reliance on internal 
+controls; risks stemming from international conflicts; risks related to changes to tariff and import/export 
+regulations; glo bal financial conditions; currency rate risks; potential enforcement under the Extractive 
+Sector Transparency Measures Act (Canada); and the potential to pay future dividends.  
+Although the Company  has attempted to identify important factors that could cause actual performance, 
+achievements, actions, events, results, or conditions to differ materially from those described in forward -
+looking statements or forward -looking information, there may be oth er factors that cause performance, 
+achievements, actions, events, results, or conditions to differ from those anticipated, estimated, or 
+intended. Further details relating to many of these factors is discussed in the section entitled “R isk 
+Factors” in the Company’s  AIF available on SEDAR+ at www.sedarplus.ca . 
+Forward -looking statements and forward -looking information contained herein are made as of the date 
+of this MD&A  and the Company  disclaims any obligation to update or revise any forward -looking 
+statements or forward -looking information, whether as a result of new information, future events, or 
+results or otherwise, except as required by applicable law. There can be no assurance tha t forward -looking 
+statements or forward -looking information will prove to be accurate, as actual results and future events 
+could  differ materially from those anticipated in such statements. Accordingly, readers should not place 
+undue reliance on forward -looking statements or forward -looking information. All forward -looking 
+statements and forward -looking information attributable to the Company  is expressly qualified by these 
+cautionary statements.  DISCOVERY SILVER CORP.  
+MANAGEMENT’ S DISCUSSION AND ANALYSIS  
+FOR THE THREE AND SIX MONTHS ENDED June 30, 2025, and 2024  
+(Expressed in United States dollars, except where otherwise noted)  
+ 
+35  CAUTIONARY NOTE TO UNITED STATES INVESTORS CONCERNING ESTIMATES OF 
+MEASURED, INDICATED, AND INFERRED RESOURCES  
+ 
+Information in this MD&A, including any information incorporated by reference, and disclosure 
+documents of Discovery that are filed with Canadian securities regulatory authorities concerning mineral 
+properties have been prepared in accordance with the requ irements of securities laws in effect in Canada, 
+which differ from the requirements of United States securities laws.  
+Without limiting the foregoing, these documents use the terms “measured resources”, “indicated 
+resources”, and “inferred resources”. Shareholders in the United States are advised that, while such terms 
+are defined in and required by Canadian securities law s, the United States Securities and Exchange 
+Commission (the “ SEC”) does not recognize them. Under United States standards, mineralization may not 
+be classified as a reserve unless the determination has been made that the mineralization could be 
+economical ly and legally produced or extracted at the time the reserve determination is made. United 
+States investors are cautioned not to assume that all or any part of measured or indicated resources will 
+ever be converted into reserves. Further, inferred resource s have a great amount of uncertainty as to 
+their existence and as to whether they can be mined legally or economically. It is reasonably expected 
+that the majority of inferred mineral resources could be upgraded to indicated mineral resources with 
+continue d exploration; however, there is no certainty that these inferred mineral resources will be 
+converted into mineral reserves, once economic considerations are applied. Under Canadian rules 
+inferred mineral resources must not be included in the economic anal ysis, production schedules, or 
+estimated mine life in publicly disclosed Pre -Feasibility or Feasibility Studies, or in the Life of Mine plans 
+and cash flow models of developed mines. Inferred Mineral Resources can only be used in economic 
+studies as provid ed under NI 43 -101. These standards are similar to, but differ in some ways from, the 
+requirements of the SEC that are applicable to domestic United States reporting companies and foreign 
+private issuers not eligible for the multijurisdictional disclosure system. Any mineral reserves and mineral 
+resources reported by the Company  in accordance with NI 43 -101 may not qualify as such under SEC 
+standards under Subpart 1300 of Regulation S -K. Therefore, United States investors are also cautioned 
+not to assume th at all or any part of the inferred resources exist, or that they can be mined legally or 
+economically. Disclosure of contained ounces is permitted disclosure under Canadian regulations; 
+however, the SEC normally only permits issuers to report resources as in place tonnage and grade without 
+reference to unit measures. Accordingly, information concerning descriptions of mineralization and 
+resources contained in these documents may not be comparable to information made public by United 
+States companies subject  to the reporting and disclosure requirements of the SEC.  
+ 
+ADDITIONAL INFORMATION  
+ 
+Additional information relating to the Company is available on the Company’s website at 
+www.discoverysilver.com  or on SEDAR + at www.sedarplus.ca . 
